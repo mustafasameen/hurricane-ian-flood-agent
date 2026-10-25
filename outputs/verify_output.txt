@@ -1,0 +1,77 @@
+Observed file : data/raw/water_level_8725520_0520a8fdb3.json
+Request URL   : https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=water_level&application=cgn6905_hw2_agent&begin_date=20220927&end_date=20220930&datum=MHHW&station=8725520&time_zone=lst_ldt&units=english&format=json
+Window        : 2022-09-27 00:00 to 2022-09-30 23:54   datum MHHW   LST/LDT (local clock time; EDT, UTC-4, on these dates)
+
+PASS  expected 6-min timestamps: recomputed=960  reported=960
+PASS  observed missing: recomputed=0  reported=0
+PASS  predicted missing: recomputed=0  reported=0
+PASS  peak observed (ft above MHHW): recomputed=7.257  reported=7.257
+PASS  peak observed time: recomputed=2022-09-28 18:30  reported=2022-09-28 18:30
+PASS  max residual (ft): recomputed=7.249  reported=7.249
+PASS  max residual time: recomputed=2022-09-28 18:18  reported=2022-09-28 18:18
+PASS  most negative residual (ft): recomputed=-1.441  reported=-1.441
+PASS  predicted tide at peak: recomputed=0.01  reported=0.01
+PASS  nws minor threshold above MHHW: recomputed=2.0  reported=2.0
+PASS  nws minor samples above: recomputed=203  reported=203
+PASS  nws minor hours above: recomputed=20.3  reported=20.3
+PASS  nws minor first time above: recomputed=2022-09-28 14:18  reported=2022-09-28 14:18
+PASS  nws minor last time above: recomputed=2022-09-29 10:30  reported=2022-09-29 10:30
+PASS  nws moderate threshold above MHHW: recomputed=3.5  reported=3.5
+PASS  nws moderate samples above: recomputed=137  reported=137
+PASS  nws moderate hours above: recomputed=13.7  reported=13.7
+PASS  nws moderate first time above: recomputed=2022-09-28 15:12  reported=2022-09-28 15:12
+PASS  nws moderate last time above: recomputed=2022-09-29 04:48  reported=2022-09-29 04:48
+PASS  nws major threshold above MHHW: recomputed=5.0  reported=5.0
+PASS  nws major samples above: recomputed=75  reported=75
+PASS  nws major hours above: recomputed=7.5  reported=7.5
+PASS  nws major first time above: recomputed=2022-09-28 16:12  reported=2022-09-28 16:12
+PASS  nws major last time above: recomputed=2022-09-28 23:36  reported=2022-09-28 23:36
+PASS  nos minor threshold above MHHW: recomputed=1.69  reported=1.69
+PASS  nos minor samples above: recomputed=219  reported=219
+PASS  nos minor hours above: recomputed=21.9  reported=21.9
+PASS  nos minor first time above: recomputed=2022-09-28 14:00  reported=2022-09-28 14:00
+PASS  nos minor last time above: recomputed=2022-09-29 11:48  reported=2022-09-29 11:48
+PASS  nos moderate threshold above MHHW: recomputed=2.66  reported=2.66
+PASS  nos moderate samples above: recomputed=172  reported=172
+PASS  nos moderate hours above: recomputed=17.2  reported=17.2
+PASS  nos moderate first time above: recomputed=2022-09-28 14:48  reported=2022-09-28 14:48
+PASS  nos moderate last time above: recomputed=2022-09-29 07:54  reported=2022-09-29 07:54
+PASS  nos major threshold above MHHW: recomputed=3.89  reported=3.89
+PASS  nos major samples above: recomputed=118  reported=118
+PASS  nos major hours above: recomputed=11.8  reported=11.8
+PASS  nos major first time above: recomputed=2022-09-28 15:30  reported=2022-09-28 15:30
+PASS  nos major last time above: recomputed=2022-09-29 03:12  reported=2022-09-29 03:12
+PASS  peak in ft above NAVD88: recomputed=7.54  reported=7.54
+
+NHC Tropical Cyclone Report Table 3, Fort Myers (FMRF1): storm surge 7.25, storm tide 7.53 (NAVD88), inundation proxy 7.26 (above MHHW)
+PASS  max residual vs NHC storm surge: recomputed=7.25  reported=7.25
+PASS  peak vs NHC inundation proxy (ft above MHHW): recomputed=7.26  reported=7.26
+PASS  peak vs NHC storm tide (ft NAVD88, datums rounded to 0.01): recomputed=7.54  reported=7.53
+
+USGS STN request: https://api.waterdata.usgs.gov/stnservices/hwms/filteredhwms/?event=325&states=FL
+PASS  HWM gauge_vicinity_5km: marks used: recomputed=48  reported=48
+PASS  HWM gauge_vicinity_5km: median elevation (ft NAVD88): recomputed=7.5  reported=7.5
+PASS  HWM gauge_vicinity_5km: max elevation (ft NAVD88): recomputed=8.5  reported=8.5
+PASS  HWM gauge_vicinity_5km: median height above ground (ft): recomputed=1.9  reported=1.9
+PASS  HWM gauge_vicinity_5km: marks higher than gauge peak: recomputed=21  reported=21
+PASS  HWM lee_county: marks used: recomputed=251  reported=251
+PASS  HWM lee_county: median elevation (ft NAVD88): recomputed=9.1  reported=9.1
+PASS  HWM lee_county: max elevation (ft NAVD88): recomputed=13.8  reported=13.8
+PASS  HWM lee_county: median height above ground (ft): recomputed=3.08  reported=3.08
+PASS  HWM lee_county: marks higher than gauge peak: recomputed=186  reported=186
+PASS  HWM fort_myers_beach: marks used: recomputed=23  reported=23
+PASS  HWM fort_myers_beach: median elevation (ft NAVD88): recomputed=12.3  reported=12.3
+PASS  HWM fort_myers_beach: max elevation (ft NAVD88): recomputed=13.8  reported=13.8
+PASS  HWM fort_myers_beach: median height above ground (ft): recomputed=6.82  reported=6.82
+PASS  HWM fort_myers_beach: marks higher than gauge peak: recomputed=23  reported=23
+PASS  HWM sanibel_captiva: marks used: recomputed=56  reported=56
+PASS  HWM sanibel_captiva: median elevation (ft NAVD88): recomputed=11.1  reported=11.1
+PASS  HWM sanibel_captiva: max elevation (ft NAVD88): recomputed=13.11  reported=13.11
+PASS  HWM sanibel_captiva: median height above ground (ft): recomputed=6.3  reported=6.3
+PASS  HWM sanibel_captiva: marks higher than gauge peak: recomputed=52  reported=52
+
+NHC Table 3 lists USGS mark FLLEE32905 at 7.7 ft (NAVD88) and 4.43 ft above ground
+PASS  FLLEE32905 elevation (ft NAVD88) vs NHC Table 3: recomputed=7.7  reported=7.7
+PASS  FLLEE32905 height above ground (ft) vs NHC Table 3: recomputed=4.43  reported=4.43
+
+65 of 65 checks passed

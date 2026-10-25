@@ -1,0 +1,3046 @@
+=== PAGE 1 ===
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+HURRICANE IAN 
+ 
+(AL092022) 
+ 
+23–30 September 2022 
+ 
+Lisa Bucci, Laura Alaka, 
+Andrew Hagen, Sandy Delgado, and Jack Beven   
+National Hurricane Center 
+12 March 20261 
+ 
+ 
+GOES-16 GEOCOLOR IMAGE FROM 28 SEPTEMBER 2022 AT 1910 UTC NEAR THE TIME OF IAN’S LANDFALL IN 
+SOUTHWESTERN FLORIDA. CREDIT: NOAA/NESDIS/STAR 
+Ian made landfall in southwestern Florida at category 4 intensity (on the Saffir-Simpson Hurricane Wind 
+Scale), producing catastrophic storm surge, damaging winds, and historic freshwater flooding across much of 
+central and northern Florida.  Ian was responsible for over 150 direct and indirect deaths and over $112 billion 
+in damage, making it the costliest hurricane in Florida’s history and the third-costliest in United States history.  
+Ian also made landfall as a category 3 hurricane in western Cuba bringing widespread damage and loss of 
+power to the entire island.  Ian made its final landfall as a category 1 hurricane in South Carolina.  
+                                               
+1 Original report dated 2 April 2023.  This version removes WeatherStem data that contained a mixture of measured 
+and derived observations in the Florida surface observation section and in the supplemental data files. 
+=== PAGE 2 ===
+Hurricane Ian     2 
+ 
+Table of Contents 
+ 
+SYNOPTIC HISTORY ........................................................................ 3 
+METEOROLOGICAL STATISTICS ................................................... 4 
+Winds and Pressure ..................................................................................................... 5 
+Cuba and Elsewhere in the Caribbean ....................................................................... 5 
+Florida and Georgia .................................................................................................... 6 
+North Carolina and South Carolina ............................................................................. 7 
+Storm Surge ................................................................................................................. 8 
+Cuba .......................................................................................................................... 8 
+United States .............................................................................................................. 8 
+Southwestern Florida ............................................................................................... 8 
+Atlantic coastline .................................................................................................... 10 
+Rainfall and Flooding .................................................................................................. 11 
+Tornadoes .................................................................................................................. 12 
+CASUALTY AND DAMAGE STATISTICS ...................................... 12 
+FORECAST AND WARNING CRITIQUE ........................................ 14 
+Genesis ...................................................................................................................... 14 
+Track .......................................................................................................................... 14 
+Intensity ...................................................................................................................... 15 
+Storm Surge Forecasts and Warnings ........................................................................ 15 
+Wind Watches and Warnings ...................................................................................... 17 
+Impact-based Decision Support Services (IDSS) and Public Communication ............. 17 
+ACKNOWLEDGEMENTS ............................................................... 18 
+TABLES .......................................................................................... 20 
+FIGURES ......................................................................................... 41 
+ADDITIONAL NWS RESOURCES .................................................. 72 
+ 
+ 
+ 
+=== PAGE 3 ===
+Hurricane Ian     3 
+ 
+Hurricane Ian 
+ 
+23–30 SEPTEMBER 2022 
+ 
+SYNOPTIC HISTORY 
+ 
+     
+The origins of Ian can be traced back to a robust tropical wave that moved off the west 
+coast of Africa from 14‒15 September.  The wave remained embedded in the monsoon trough 
+and Inter-tropical Convergence Zone (ITCZ) as it moved slowly across the Atlantic for the next 
+six days, with occasional bursts of disorganized convection.  The wave reached the Windward 
+Islands on 21 September, and convective activity increased while the wave was over the 
+southeastern Caribbean.  However, an equatorward outflow channel from Hurricane Fiona, 
+located to the north of the disturbance, generated moderate-to-strong vertical wind shear which 
+slowed organization.  Despite the continued shear, around 0600 UTC 23 September, infrared 
+satellite imagery indicated that the system had enough organization of its associated deep 
+convection and a sufficiently well-defined low-level circulation to designate the formation of a 
+tropical depression when it was located about 130 n mi east-northeast of Aruba.  The “best track” 
+chart of the tropical cyclone’s path is given in Fig. 1, with the wind and pressure histories shown 
+in Figs. 2 and 3, respectively. The best track positions and intensities are listed in Table 12. 
+A mid-level ridge building to the north of the depression caused the system to move on a 
+general west-northwestward track away from the Aruba, Bonaire, and Curaçao island chain.  The 
+cyclone became a tropical storm 18 h after genesis, at 0000 UTC 24 September, when it was 
+located 335 n mi southeast of Jamaica, which coincided with the subtropical ridge turning Ian 
+toward the west.  Moderate-to-strong vertical wind shear initially limited intensification of Ian, 
+preventing alignment of the low- and mid-level centers while the storm moved over the Caribbean 
+Sea south of Jamaica.  Early on 25 September, the storm turned northwestward, and later that 
+day convection near Ian’s core started to coalesce.  Ian began its first period of rapid 
+intensification at 1800 UTC 25 September when it moved around the southwestern periphery of 
+the aforementioned ridge.   By 0600 UTC 26 September, Ian became a hurricane as it passed 
+about 100 n mi south-southwest of Grand Cayman Island.  The storm continued to rapidly intensify 
+over warm waters (30°C and higher) and in a low vertical wind shear environment as it turned 
+northward towards Cuba.  Ian’s rapid intensification continued while it approached the 
+southwestern coast of Cuba, and it became a major hurricane by 0600 UTC 27 September.  The 
+storm made landfall a few hours later near La Coloma in the Pinar del Rio Province at 0830 UTC 
+27 September as a 110-kt category 3 hurricane. 
+Ian weakened only slightly while it passed over Cuba, and the center of the hurricane 
+emerged over the southeastern Gulf of Mexico around 1400 UTC 27 September.  Atmospheric 
+and oceanic conditions remained very conducive for additional strengthening as the storm moved 
+                                               
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+=== PAGE 4 ===
+Hurricane Ian     4 
+ 
+toward the north-northeast between the western side of a subtropical ridge and a broad trough 
+over the eastern United States.  Shortly after entering the Gulf, an eyewall replacement cycle 
+began.  This structural change resulted in a larger radius of maximum winds (RMW), an expanded 
+overall wind field, and surprisingly, a slight increase in intensity once the eyewall replacement 
+cycle completed.  At 0200 UTC 28 September, the eye of the 110-kt hurricane passed directly 
+over the Dry Tortugas.  Ian intensified further later than morning and reached its peak intensity of 
+140 kt (a category 5 hurricane) at 1200 UTC 28 September.     
+Environmental conditions became less favorable soon thereafter, and Ian weakened 
+slightly during the next several hours before it made landfall on the barrier island of Cayo Costa, 
+Florida, at 1905 UTC 28 September with an intensity of 130 kt.  An hour and a half later, at 2035 
+UTC, the center of Ian’s large eye made another landfall near Punta Gorda, Florida, with an 
+estimated intensity of 125 kt.  The cyclone steadily weakened as it moved northeastward across 
+the Florida peninsula late that day and overnight, and it became a tropical storm with maximum 
+sustained winds of 60 kt by 1200 UTC 29 September, just as the center was emerging over the 
+Atlantic waters near Cape Canaveral, Florida. 
+Once over the western Atlantic Ian re-strengthened to a 65-kt hurricane by 1800 UTC  
+29 September with much of its convection displaced to the north of the center while the hurricane 
+interacted with a trough over the eastern United States.  Ian turned northward early on  
+30 September and began to accelerate toward the coast of South Carolina.  The hurricane made 
+its final landfall near Georgetown, South Carolina, with an intensity of 70 kt at 1805 UTC  
+30 September. 
+Shortly after landfall, Ian merged with a front over North Carolina, marking its transition to 
+an extratropical cyclone by 0000 UTC 1 October as it moved inland.  By 1200 UTC that day, 
+surface, radar, and satellite imagery indicated that Ian had dissipated, and a separate mid-latitude 
+low had formed to the northeast. 
+ 
+METEOROLOGICAL STATISTICS 
+ 
+  
+Observations in Ian (Figs. 2 and 3) include subjective satellite-based Dvorak technique 
+intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the Satellite 
+Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) and AI-Enhanced 
+Advanced Dvorak Technique (AiDT)3 estimates and Satellite Consensus (SATCON) estimates 
+from the Cooperative Institute for Meteorological Satellite Studies/University of Wisconsin-
+Madison. Observations also include flight-level, stepped frequency microwave radiometer 
+(SFMR), and dropwindsonde observations from a combined 28 flights of the 53rd Weather 
+Reconnaissance Squadron of the U.S. Air Force Reserve Command and the NOAA Aircraft 
+Operations Center.  The Air Force Reserve Hurricane Hunters made 14 flights into Ian and 
+reported 37 center fixes. The NOAA Hurricane Hunters flew 8 missions into the storm with 16 
+center fixes, and there were 6 synoptic surveillance missions flown by the NOAA G-IV jet.  Data 
+                                               
+3 Olander, T., A. Wimmers, C. Velden, and J. P. Kossin, 2021: Investigation of Machine Learning Using 
+Satellite-Based Advanced Dvorak Technique Analysis Parameters to Estimate Tropical Cyclone 
+Intensity. Wea. Forecasting, 36, 2161–2186, https://doi.org/10.1175/WAF-D-20-0234.1. 
+=== PAGE 5 ===
+Hurricane Ian     5 
+ 
+and imagery from NOAA polar-orbiting satellites including the Advanced Microwave Sounding 
+Unit (AMSU), the NASA Global Precipitation Mission (GPM), the European Space Agency’s 
+Advanced Scatterometer (ASCAT), and Defense Meteorological Satellite Program (DMSP) 
+satellites, among others, were also useful in constructing the best track of Ian.  Data from the 
+weather radars in the United States provided important information on Ian. 
+Ship reports of winds of tropical storm force associated with Ian are given in Table 2, and 
+selected significant storm surge observations given in Table 3.  A supplemental file containing a 
+larger selection of surface and buoy observations is available for download on the NHC website 
+at https://www.nhc.noaa.gov/data/tcr/supplemental/ian.xlsx. This file also contains rainfall reports 
+from National Weather Service Cooperative (COOP) stations and the Community Collaborative 
+Rain, Hail and Snow Network (CoCoRaHS) sites.   
+ 
+Winds and Pressure 
+Ian’s estimated peak intensity of 140 kt and minimum central pressure of 937 mb at  
+1200 UTC 28 September are based on data from Air Force Reserve Unit and NOAA 
+reconnaissance aircraft. During the missions, the maximum 10-second averaged flight-level 
+winds reported in the hurricane’s core were 160 kt from a NOAA aircraft at 750 mb (an altitude of 
+about 6800 ft) at 1013 UTC 28 September.  These flight-level winds support a surface intensity 
+estimate of 136 kt. There were also multiple peak SFMR surface wind estimates from both Air 
+Force and NOAA aircraft of 137-138 kt at 1030 UTC and 1013 UTC, respectively.  The SFMR 
+data from the Air Force instrument was flagged as unreliable in the real-time products, but 
+reprocessing in the post-storm analysis using an updated algorithm no longer flagged the peak 
+values.  Due to extreme turbulence in the region where the maximum sustained winds were 
+located in the western quadrant, the aircraft was only able to sample that part of Ian’s core once.  
+A profile of the winds from the NOAA P-3 Tail Doppler Radar showed a shallow maximum of 
+winds largely below the aircraft altitude with speeds exceeding 160 kt 500-1000 ft (150-300 m) 
+above the surface (Fig. 4).  The combination of these data, and the consideration of potential 
+undersampling from the SFMR4, support a peak intensity of 140 kt.  It should be noted that the 
+NHC best track intensities typically have an uncertainty of around ±10%, and that there is very 
+little practical difference between a 140-kt category 5 and a 135-kt category 4 hurricane. 
+A dropsonde from an Air Force Reserve aircraft reported a pressure of 937 mb with a 
+surface wind of 2 kt around 1200 UTC 28 September, and these data are the basis for the 
+minimum pressure of 937 mb.   
+Cuba and Elsewhere in the Caribbean 
+An Air Force Reserve reconnaissance aircraft was in the storm until about 0400 UTC  
+27 September, over 4 hours before landfall in Cuba.   The aircraft measured a peak 700-mb flight 
+level wind speed of 101 kt (reducing to 91 kt) and SFMR retrievals of 97 kt.  Infrared satellite and 
+Cuban radar imagery showed Ian’s eye became more distinct just before landfall, and objective 
+satellite intensity estimates (ADT and AiDT) increased to 110-113 kt.  The more organized satellite 
+                                               
+4 Klotz, B. W., and D. S. Nolan, 2019: SFMR Surface Wind Undersampling over the Tropical Cyclone Life 
+Cycle. Mon. Wea. Rev., 147, 247–268, https://doi.org/10.1175/MWR-D-18-0296.1. 
+=== PAGE 6 ===
+Hurricane Ian     6 
+ 
+and radar presentation and increasing satellite intensity estimates were the justification for the 
+110 kt intensity at landfall in Cuba.  Ian’s estimated landfall pressure of 947 mb is based on an 
+extrapolated pressure of 947 mb measured by a NOAA Hurricane Hunter aircraft at 1024 UTC. 
+Ian brought hurricane conditions to portions of western Cuba.  The Instituto de 
+Meteorología de Cuba reported a peak 10-minute sustained wind of 90 kt with a gust of 118 kt in 
+San Juan y Martinez at 0755 UTC 27 September.  A conversion of the 10-minute wind yields an 
+equivalent 1-minute sustained wind of 100‒110 kt5.  In Pinar del Rio, an observing station 
+measured a 10-minute sustained wind of 89 kt with a 105-kt gust at 1112 UTC 27 September.  
+The same station measured a minimum pressure of 956.7 mb at 0850 UTC 27 September.   
+Based on the data available at the time this report was written, no sustained  
+tropical-storm-force were reported in the Cayman Islands, Jamaica, or the Bahamas.  However, 
+these islands did report wind gusts of tropical storm strength.   
+Florida and Georgia 
+The estimated intensity at the Dry Tortugas landfall is based on data from an Air Force 
+Reserve aircraft that completed two passes through the center of Ian between 0205 and  
+0323 UTC 28 September.  The peak 700-mb flight-level winds were 118 kt which reduces to 106 
+kt at the surface.  The peak SFMR measurement was 99 kt.  Based on the flight-level wind 
+reduction and accounting for undersampling of the SFMR, the intensity is estimated to be 110 kt.  
+The central pressure of 952 mb is based on a dropsonde released from the same aircraft that 
+measured a pressure of 952 mb with a surface wind of 5 kt. 
+The estimated intensity at the Cayo Costa landfall is based on data from an Air Force 
+Reserve aircraft.  At 1723 UTC 28 September a peak flight-level wind of 136 kt was reported 
+(reducing to 122 kt) paired with an SFMR measurement of 121 kt.  When accounting for 
+undersampling and the large radius of maximum wind (greater than 30 n mi), a correction factor 
+can be applied to the SFMR observations that equates to 128 kt.  Therefore, Ian’s estimated 
+intensity at the Cayo Costa landfall is 130 kt. 
+The Air Force Reserve aircraft released a dropsonde in the center of Ian that measured a 
+surface pressure of 939 mb (at 1807 UTC 28 September) with 6 kt of wind just above the surface 
+about an hour before the Cayo Costa landfall.  At 1903 UTC, the same aircraft reported an 
+extrapolated minimum central pressure of 942 mb (though this method tends to have higher 
+uncertainty).  A blend of these data was the basis for the estimated central pressure of 941 mb at 
+the Cayo Costa landfall. 
+Ian’s landfall intensity in mainland southwestern Florida is estimated to be 125 kt.  
+Because of instrument failure, no reliable surface observations exist from the coastal areas where 
+the eyewall came on shore.  In addition, aircraft reconnaissance was no longer in the storm 
+environment.  The highest reported sustained wind observation was an inland mobile 
+meteorological tower, placed by the Florida Coastal Monitoring Program near the Punta Gorda 
+airport, that measured peak sustained winds of 78 kt with a gust of 96 kt at 1959 UTC  
+                                               
+5 Harper, B. A., J. D. Kepert, and J. D. Ginger.  Guidelines for converting between various wind averaging 
+periods in tropical 
+cyclone conditions.  World Meteorological Organization. August 
+2010.  
+https://library.wmo.int/doc_num.php?explnum_id=290  
+=== PAGE 7 ===
+Hurricane Ian     7 
+ 
+28 September.  Elsewhere, in Punta Gorda, Florida, an Automated Surface Observing Station 
+(ASOS) reported sustained winds of 76 kt with a peak gust of 117 kt at approximately 2025 UTC  
+28 September. However, this station stopped reporting wind observations shortly after the peak 
+values were observed, and the data are incomplete.   
+The lowest pressure reported in the third Florida landfall area was 951.2 mb at 2023 UTC 
+28 September by Josh Morgerman (iCyclone) located in Punta Gorda.  On the same day, a Citizen 
+Weather Observer Program (CWOP) station, also located in Punta Gorda, reported a minimum 
+pressure of 951.6 mb at 2030 UTC.  These observations were on the northern side of the large 
+eye and indicate the minimum central pressure of Ian was rising as it moved inland.  The minimum 
+pressure is estimated to be 945 mb at landfall on the mainland of Florida. 
+After making landfall in southwestern Florida, hurricane conditions penetrated inland over 
+portions of the peninsula. However, many weather stations near the path of Ian’s center stopped 
+transmitting observations prior to the arrival of the strongest winds.  A WeatherFlow station in 
+New Smyrna Beach, Florida, reported sustained winds of 63 kt and a peak gust of 83 kt at  
+0837 UTC 29 September.  This station was located about 80 n mi from the center of Ian and is 
+the basis for the 65-kt intensity at 0600 UTC 29 September. 
+A large portion of Florida experienced tropical-storm-force winds (Fig. 5).  These winds 
+arrived in the Florida Keys late on 27 September and extended as far north as Islamorada as Ian 
+passed to the west.  On the western side of Florida, there were sustained 35-kt winds as far north 
+as Dunedin at 2005 UTC 28 September.  As Ian moved off shore of the east coast of Florida at 
+1200 UTC 29 September, tropical-storm-force winds were reported as far north as Savannah, 
+Georgia, and as far south as Pompano Beach, Florida. 
+North Carolina and South Carolina 
+An Air Force Reserve aircraft observed peak flight-level winds of 71 kt at 1355 UTC  
+30 September (reducing to 64 kt at the surface) and maximum SFMR winds of 72 kt at 1334 UTC 
+30 September.  The highest reported sustained wind close to the landfall location from an 
+instrument with a complete dataset was 69 kt at 1753 UTC 30 September with a peak gust of  
+73 kt from a WeatherFlow station (anemometer elevation 15 m) in Georgetown, South Carolina.  
+These data support a landfall intensity of 70 kt. 
+Sustained tropical-storm-force winds were measured both north and south of the landfall 
+location along the coast (Fig. 5).  Inland, tropical-storm-force gusts were recorded along the track 
+of Ian into northern portions of both North Carolina and South Carolina.    
+A dropsonde released by an Air Force Reserve aircraft measured 982 mb with a 53-kt 
+surface wind speed at 1641 UTC 30 September. The minimum pressure recorded from a surface 
+station was 978.7 mb by a WeatherFlow station located in Murrells Inlet, South Carolina, at  
+1934 UTC 30 September.  This station and the dropsonde data were used as the basis for the 
+minimum central pressure estimate of 978 mb at the time of landfall.  
+=== PAGE 8 ===
+Hurricane Ian     8 
+ 
+Storm Surge6 
+ Cuba 
+The Instituto de Meteorología de Cuba reported that Ian produced a significant storm 
+surge along the southwest coast of Cuba. East of the landfall location, in La Coloma, the sea 
+penetrated 300 m (0.2 mi) inland and water levels reached a height between 2.5 and 3 m (~8 and 
+10 ft) (unknown reference level). Nearby in Playa Las Canas, water levels reached a height of  
+2.6 m (8.5 ft). In Artemisa, located farther to the east, water levels reached a height of 1.75 m  
+(5.7 ft). These areas also had significant inland penetration of the sea, up to 1500 m (0.93 mi) 
+inland in Majana and Cajío, and up to 5000 m (3.1 mi) inland in Guanimar. Minor-to-moderate 
+coastal flooding also occurred on the northwest coast of Cuba. 
+United States  
+Ian produced a catastrophic storm surge along the southwest coast of Florida, impacting 
+the barrier islands near Fort Myers, as well as rivers and bays such as the Caloosahatchee River, 
+Estero Bay, the Imperial River, and Naples Bay. Peak storm surge inundation levels of 10 to  
+15 ft above ground level (AGL) occurred in Fort Myers Beach (Fig. 6). Ian made landfall in a region 
+extremely vulnerable to storm surge, and the exact track, strong winds, and large storm size (e.g., 
+20 n mi RMW at landfall) contributed to the widespread devastating impacts. Ian also produced a 
+significant storm surge on the northeast coast of Florida as it passed over the state, and along 
+the South Carolina coast where it made a final landfall.  
+Several observing networks captured the storm surge event, including National Ocean 
+Service (NOS) tide gauges (Fig. 7), deployed United States Geological Survey (USGS) water 
+level sensors (Fig. 8), USGS stream gauges (not shown), and survey crews collecting post-storm 
+high water marks (Fig. 9). Note that Mean Higher High Water (MHHW), an approximation for 
+inundation at the immediate coastline, is reported herein at USGS sensors when a valid 
+conversion from NAVD88 (a geodetic datum measured by the sensor) can be made using the 
+NOAA VDatum conversion tool. These data were analyzed alongside the storm surge hindcast 
+produced by the NHC Storm Surge Unit to create a final storm surge estimate. Figure 6 shows 
+the NHC storm surge analysis, which represents the maximum inundation above ground level 
+(AGL) during Hurricane Ian.  
+ 
+SOUTHWESTERN FLORIDA 
+Maximum inundation levels of 10 to 15 ft AGL occurred on Fort Myers Beach and Estero 
+Island. A USGS water level sensor measured a wave-filtered water level of 12.70 ft above MHHW 
+                                               
+6 Several terms are used to describe water levels due to a storm. Storm surge is defined as the abnormal 
+rise of water generated by a storm, over and above the predicted astronomical tide, and is expressed in 
+terms of height above normal tide levels. Because storm surge represents the deviation from normal water 
+levels, it is not referenced to a vertical datum. Storm tide is defined as the water level due to the 
+combination of storm surge and the astronomical tide, and is expressed in terms of height above a vertical 
+datum, i.e. the North American Vertical Datum of 1988 (NAVD88) or Mean Lower Low Water (MLLW). 
+Inundation is the total water level that occurs on normally dry ground as a result of the storm tide, and is 
+expressed in terms of height above ground level. At the coast, normally dry land is roughly defined as areas 
+higher than the normal high tide line, or Mean Higher High Water (MHHW). 
+=== PAGE 9 ===
+Hurricane Ian     9 
+ 
+at Fort Myers Beach Pier (Fig. 8, Fig. 10), which was the highest water level measurement from 
+this network. Nearby, a remote camera mounted by stormchaser Max Olson captured the 
+evolution of the storm surge event on Fort Myers Beach. The camera was located less than 0.5 
+miles to the east on Estero Blvd relative to the USGS water level sensor. A timeline of images 
+taken from this video footage is shown in Figure 11: (a) The onset of storm surge inundating the 
+streets, (b) rapidly moving water carrying large floating debris, (c) a home in the view of the 
+camera floating off its foundation with large waves crashing over it, (d) waves splashing over the 
+camera, mounted approximately 12 ft above the road, and (e) receding waters revealing a barren 
+landscape approximately 6.5 hours after the first image. Figure 10 shows the USGS hydrograph 
+and the photo timeline overlaid to help relate the sensor measurements to on-the-ground impacts. 
+These observations provide a glimpse of the life-threatening and destructive power of the storm 
+surge and waves that occurred throughout the area. In addition, both the USGS and the NWS 
+surveyed extensive stillwater high water marks on the island (Fig. 9). The agencies used differing 
+approaches: the USGS surveyed a wider area including inland impacts, and estimated the water 
+level above ground, while the NWS heavily surveyed coastal areas for peak impacts, and 
+estimated the water level above the high tide line (MHHW). NWS survey crews found the highest 
+marks, approximately 15 ft above MHHW, inside the second story of beachfront structures (e.g. 
+Fig. 12). 
+Elsewhere, maximum inundation levels of 9 to 13 ft AGL occurred on the eastern portion 
+of Sanibel Island. A USGS water level sensor measured a wave-filtered water level of 12.58 ft 
+above MHHW on Sanibel Island (Fig. 8), and USGS surveyed widespread high water marks of  
+6 to 9 ft AGL on the island (Fig. 9a). Significant structural damage was reported in these areas. 
+For example, post-storm NOAA aerial imagery revealed large cuts, and portions of the Sanibel 
+causeway were washed away by the storm surge (Fig. 13).  
+There was a sharp gradient in the most severe storm surge across the track of Ian’s center. 
+Figure 9a highlights a significant difference in the high water marks on the extreme eastern portion 
+of Sanibel Island compared to Captiva. Additionally, a USGS water level sensor in Pirate Harbor, 
+south of Punta Gorda, measured only 4.47 ft above MHHW, less than 30 miles from Sanibel 
+Island and Fort Myers Beach. The majority of the sensors placed in Port Charlotte and Englewood, 
+as well as northward through Tampa Bay, remained dry and did not measure storm surge due to 
+offshore winds. Water levels in Tampa Bay receded below normal levels, where the NOS tide 
+gauge at Old Port Tampa measured a minimum water level of 4.38 ft below Mean Lower Low 
+Water (MLLW). 
+Maximum inundation levels of 6 to 9 ft AGL occurred in Pine Island, Cape Coral, and other 
+communities along the mouth of the Caloosahatchee River. A USGS water level sensor in Punta 
+Rassa, located at the east end of the Sanibel Causeway, measured a wave-filtered water level of 
+8.37 ft above MHHW. Two additional sensors in Matlacha and Cape Coral were lost/destroyed 
+(Fig. 8). While only scattered high water marks were collected in these areas, the NHC storm 
+surge hindcast suggests significant inundation occurred, especially along the immediate coast.   
+Maximum inundation levels of 5 to 8 ft AGL occurred up the Caloosahatchee River in Fort 
+Myers. The NOS tide gauge near downtown Fort Myers measured 7.26 ft above MHHW (Fig. 7) 
+where storm surge reversed the direction of the river flow and flooded the streets of the city. The 
+USGS stream gauge network also recorded the impressive push of surge up the river, but several 
+=== PAGE 10 ===
+Hurricane Ian     10 
+ 
+gauges failed prior to recording a peak water level. Along the southern bank of the river in 
+downtown Fort Myers, USGS surveyed a high water mark of 4.4 ft AGL (Fig. 9a).   
+Maximum inundation levels of 8 to 12 ft AGL occurred in Estero, Bonita Beach, Bonita 
+Springs, and North Naples. There were several USGS water level sensors that measured greater 
+than 9 ft above MHHW from San Carlos Island southward through Delnor-Wiggins State Park in 
+North Naples (Figure 5). Additional USGS stream gauges in the canals north and east of Estero 
+Bay recorded significant inland surge, and USGS surveyed a high water mark of 8.3 ft AGL near 
+Mullock Creek (Fig. 9a). Farther south in Bonita and North Naples, the most severe impacts were 
+contained to the immediate coastline while inland high water marks ranged from 5 to 7 ft AGL. 
+Maximum inundation of 6 to 9 ft AGL occurred in Naples. The NOS tide gauge on Naples 
+Pier measured 6.18 ft above MHHW before the station was destroyed due to significant wave 
+action or debris (Fig. 7). Similarly, the USGS water level sensor placed nearby was lost/destroyed 
+(Fig. 8). The USGS water level sensor located on the Gordon River Bridge in Naples Bay 
+measured 7.1 ft NAVD88 (no conversion to MHHW). High water marks collected near the sensor 
+measured between 4 and 5 ft AGL, and there were reports of flooding at the Naples airport. 
+Maximum inundation of 4 to 6 ft AGL occurred from Marco Island through Everglades City. 
+Several USGS water level sensors measured 6 to 7 ft above MHHW (Fig. 8), and many of the 
+USGS stream gauges along the Everglades reached the operational limit of the sensor prior to 
+recording a peak water level. Only a few high water marks were collected, with a maximum of 4.7 
+ft AGL on Marco Island (Fig. 9a). 
+Storm surge inundation of 1 to 3 ft AGL occurred in the Florida Keys, with locally higher 
+amounts of 2 to 4 ft AGL along extreme western Key West and the Dry Tortugas. The NOS tide 
+gauge at Key West measured 2.46 ft above MHHW (Fig. 7), while eyewitness reports near the 
+Southernmost Point buoy in Key West reported dangerous water levels on the ground.     
+ATLANTIC COASTLINE 
+Maximum inundation levels of 3 to 5 ft AGL occurred along the northeast coast of Florida 
+from Volusia County to the Florida/Georgia border. USGS water level sensors placed along the 
+northeast coast of Florida (not shown) recorded wave-filtered water levels of 3 to 6 ft above 
+MHHW extending from Volusia County northward through St. Johns County. Several of these 
+sensors remained dry and did not measure storm surge, while others are characteristically noisy, 
+indicative of significant wave contamination. This evidence of wave contamination is further 
+confirmed by post-storm NOAA aerial imagery that shows extensive beach erosion and damage 
+to piers resulting from large and destructive breaking waves (not shown). Flooding of inland 
+neighborhoods and intracoastal communities in Flagler and Volusia Counties was largely the 
+result of heavy rainfall. Farther south along the coast of Brevard County, water levels reached 2 
+to 4 ft AGL. 
+Along the St. Johns River, water levels reached 2 to 4 ft AGL. The NOS tide gauge at 
+Mayport, Florida, near the mouth of the St. Johns River, measured 2.48 ft above MHHW, while a 
+gauge on the Buckman Bridge located south of downtown Jacksonville measured 3.06 ft above 
+MHHW (Fig. 7).  
+=== PAGE 11 ===
+Hurricane Ian     11 
+ 
+Maximum inundation of 2 to 4 ft AGL occurred along the Georgia coast northward to 
+Charleston, South Carolina. The NOS tide gauges at Fort Pulaski, Georgia, and Charleston 
+measured maximum water levels of 2.01 ft and 1.89 ft above MHHW, respectively (Fig. 7).   
+Maximum inundation levels of 4 to 6 ft AGL occurred in Georgetown and Horry counties, 
+South Carolina, just east of the landfall location. A tide gauge at Springmaid Pier, south of Myrtle 
+Beach, measured a water level of 5.17 ft above MHHW (Fig. 7), and a USGS stream gauge near 
+Georgetown captured the storm surge up the Pee Dee River, measuring 3.4 ft above MHHW. 
+Additional high water marks collected in South Carolina by the NWS (not shown) were mostly 
+qualitative, suggesting inundation up to 4 ft AGL in homes located in barrier island communities.  
+The highest impact areas include Pawleys Island, Garden City, and Cherry Grove. South of Cape 
+Fear, maximum inundation of 3 to 5 ft AGL occurred in coastal Brunswick County, North Carolina. 
+Maximum inundation levels of 2 to 4 ft AGL occurred from Cape Fear to Cape Lookout, 
+North Carolina, including the Cape Fear River. NOS tide gauges at Wilmington and Wrightsville 
+Beach measured 2.98 ft and 3.54 ft above MHHW, respectively (Fig. 7). Farther up the coast, the 
+tide gauge at Beaufort measured 2.84 ft above MHHW. Maximum inundation of 1 to 3 ft AGL 
+occurred on the Outer Banks, and 2 to 4 ft AGL occurred in the rivers, such as the Neuse River. 
+ 
+Rainfall and Flooding  
+Ian produced widespread rainfall and flooding along its track with four areas of impacts: 
+1) Florida, 2) Cuba, 3) the United States Mid-Atlantic states, and 4) the Bahamas (Fig. 14).  The 
+full 
+rainfall 
+dataset 
+is 
+available 
+for 
+readers 
+in 
+a 
+separate 
+file 
+at 
+https://www.nhc.noaa.gov/data/tcr/supplemental/ian.xlsx. 
+In Florida, Ian produced a wide swath of heavy rainfall that led to considerable and deadly 
+freshwater flooding.  The highest storm total rainfall recorded was 26.95 inches in Grove City, 
+Florida, located just north of the landfall location on the western side of the state.  Counties north 
+of the track of Ian’s center (including Charlotte, Sarasota, Hardee, DeSoto, Polk, and Manatee) 
+experienced significant flooding when the Peace, Myakka, and Alafia Rivers, and Horse Creek all 
+crested to record levels (Fig. 15).   
+In central and eastern Florida, rainfall totals of 10-20 inches caused major floods along 
+the St. Johns River, Lake George, Crest Lake, the Little Wekiva River, and Dunns and Shingle 
+Creek affecting Seminole, Orange, Lake, Putnam and Osceola Counties.  Rainfall totals reached 
+a secondary peak as Ian neared the Atlantic Ocean and brought 21.49 inches to Daytona Beach.  
+A dry slot led to lower rainfall totals south of the track of Ian’s center, though isolated totals of  
+9+ inches were still recorded in Broward County. The relatively lower rainfall totals south of Ian’s 
+track still resulted in flooded roadways in parts of Martin and St. Lucie Counties7.   
+Rainfall totals in coastal regions of the Carolinas, Virginia, and Maryland ranged from 3 to 
+over 10 inches, adding freshwater to the storm surge (in Horry and Georgetown counties in South 
+Carolina).  In Charleston, South Carolina, 10.75 inches of rain was observed.  Farther inland along 
+                                               
+7 
+https://www.tcpalm.com/story/weather/hurricanes/2022/10/01/hurricane-ian-treasure-coast-reported-
+limited-flooding-wind-damage/10459252002/  
+=== PAGE 12 ===
+Hurricane Ian     12 
+ 
+Ian’s track, rainfall totals generally ranged from under 2 to 6 inches and were accompanied by 
+reports of streets flooding (such as in York County, South Carolina) and uprooted trees due to 
+gusty winds in areas with saturated soils.   
+Media outlets reported maximum rainfall totals of over 20 inches (over 500 mm) occurred 
+in the western portion of Cuba.  The Instituto de Meteorología de Cuba surface stations in western 
+Cuba reported rainfall totals ranging from 151.7 to 338 mm (6 to 13+ inches).  Severe flooding 
+was also reported with this excessive rainfall. 
+In the Bahamas, over 9 inches of total rainfall were recorded on both Great Abaco and 
+Bimini Islands.  An interview with a local resident revealed some associated flooding, impassible 
+roadways, and damaged buildings8. 
+ 
+Tornadoes 
+Ian produced 15 tornadoes in the United States.  Fourteen of the tornadoes occurred in 
+Florida on 27‒28 September in Ian’s outer rain bands. The magnitude of the tornadoes ranged 
+from EF 0‒2, some of which caused injuries and considerable property damage.  An EF‒2 tornado 
+at 0059 UTC 28 September with a 6-n mi track in Palm Beach County injured 2 when it caused 
+the roof of a house to collapse.  An EF-1 tornado that formed at 2317 UTC 27 September at the 
+North Perry Airport in Pembroke Pines damaged several buildings and aircraft, causing an 
+estimated $2 million in property damage.  The final tornado associated with Ian occurred in an 
+outer rain band on the coast of North Carolina on 30 September.   
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+In the United States, Ian was responsible for at least 156 fatalities, 66 of which were 
+considered deaths9 directly caused by the storm.  All direct deaths in the United States occurred 
+in Florida (Fig. 16).  Storm surge was the deadliest hazard, claiming 41 lives, with 36 of the  
+41 surge fatalities occurring in Lee County, Florida.  There were 12 direct fatalities attributed to 
+freshwater flooding in central and eastern Florida, 8 were categorized as marine fatalities, 4 were 
+related to wind, and 1 was due to rough surf.  A boat carrying a reported 27 migrants travelling 
+from Cuba to the United States capsized just off the coast of the Florida Keys in rough waters 
+generated by Ian.  While four passengers swam to shore and five were rescued, only seven 
+bodies were recovered (accounting for 7 of the 8 marine deaths).  It should be noted that the  
+11 other people missing from the boat are not represented in the total fatalities of this report.  A 
+couple living on a separate boat that was set adrift from the Florida Keys are also still missing. 
+                                               
+8 https://supicket.com/readyfight-how-the-bahamas-is-faring-against-hurricane-ian/ 
+9 Deaths occurring as a direct result of the forces of the tropical cyclone are referred to as “direct” deaths. 
+These would include those persons who drowned in storm surge, rough seas, rip currents, and freshwater 
+floods. Direct deaths also include casualties resulting from lightning and wind-related events (e.g., 
+collapsing structures). Deaths occurring from such factors as heart attacks, house fires, electrocutions from 
+downed power lines, vehicle accidents on wet roads, etc., are considered indirect” deaths. 
+=== PAGE 13 ===
+Hurricane Ian     13 
+ 
+ 
+Ian was also indirectly responsible for 90 casualties in the United States.  Most of the 
+victims (84 in total) were located in Florida, with 5 in North Carolina, and 1 in Virginia (Fig. 16).  
+The leading causes of death were lack of access to timely medical care (18), accidents (such a  
+trip-and-fall during power outages; 16), and cardiac events (16).  Other causes included vehicular 
+accidents, accidents related to storm preparations or clean up, carbon monoxide poisoning, 
+suicide, and homicide. 
+ 
+A distribution of all the fatalities (Fig. 17) shows a wide range of ages, from 6 to 101 years 
+old.  However, the peak of the distribution is skewed towards the elderly population.  It is possible 
+this a reflection of demographics in the counties of southwest Florida but is consistent with other 
+hurricane landfalls where the oldest die at the highest rates.   
+ 
+Cuba reported a total of 5 deaths10. Three were directly related to Ian’s hazards (two due 
+to wind and one unknown), and two were indirect deaths due to accidents that occurred during 
+clean up.   
+According to the NOAA National Centers for Environmental Information11, Ian caused an 
+estimated $112.9 billion worth of total damage in the United States (with a 90% confidence interval 
+of $86.8 to $135.9 billion), making Ian the third-costliest United States hurricane on record.  Of 
+that total, $109.5 billion occurred in Florida, making Ian the costliest hurricane to ever affect that 
+state.  In southwestern Florida, the catastrophic storm surge and wind left a huge swath of 
+complete destruction.  In Fort Myers Beach alone, an estimated 900 structures were totally 
+destroyed (Fig. 18), and 2,200 were damaged.  In Lee County, at least 52,514 structures were 
+impacted, of which 5,369 were destroyed and 14,245 received major damage.  Bridges and 
+roadways were also severely damaged or destroyed.   Roads and bridges to Sanibel and Pine 
+Islands were washed away, limiting access to either by boat or helicopter.  A portion of Interstate 
+75 in southern Sarasota County was shut down due flooding from the Myakka River.   In Collier 
+County, 33 buildings were destroyed, and over 3,500 buildings sustained major damage while at 
+least 200 homes were destroyed in Charlotte County.   
+In central and eastern Florida, widespread historic freshwater flooding caused destruction 
+and significant damage to many structures and roadways, leading to over 250 water rescues  
+(Fig. 19).  In Volusia County, 40 buildings were destroyed, and 1,378 structures were damaged.  
+Ian damaged an estimated 4,100 structures in Osceola County and 1,656 structures in Seminole 
+County.  The Florida Department of Agriculture and Consumer Services estimated $1.1 to $1.8 
+billion in losses due to flooding and wind damage to the state’s crops and infrastructure.12  
+An estimated 4.45 million customers13 (about 9.62 million people) lost power in the United 
+States due to Ian between 28 September and 1 October.  Florida experienced the largest loss of 
+power with ~3.28 million customers total and maximum outage count of 2.78 million at once  
+                                               
+10 https://eldiariony.com/2022/10/02/huracan-ian-causo-estragos-en-cuba-con-cinco-muertos-y-mas-de-
+100000-viviendas-destruidas/  
+11 NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate 
+Disasters (2023). https://www.ncei.noaa.gov/access/billions/, DOI: 10.25921/stkw-7w73 
+12 https://www.agri-pulse.com/ext/resources/pdfs/Hurricane-Ian-Damage-Report_FDACS.pdf  
+13 Estimate is based on PowerOutage.US storm summary. https://poweroutage.us/about/majorevents  
+=== PAGE 14 ===
+Hurricane Ian     14 
+ 
+(Fig. 20).  North Carolina, South Carolina, and Virginia had an estimated 579,000, 378,000, and 
+211,000 affected customers, respectively. 
+In South Carolina, storm surge inundated the city of Georgetown, flooding streets and 
+businesses in the downtown area (Fig. 21).  In Horry County, the U.S. Coast Guard rescued crews 
+from a stranded commercial shrimp boat. Roadway and beach flooding were also reported along 
+the North Carolina and South Carolina coastal areas.  
+Stormwaters exiting back into the Gulf of Mexico carried debris, fertilizer, and other 
+pollutants (Fig. 22).  Scientists from NOAA’s National Centers for Coastal Ocean Science tracked 
+a harmful algal bloom in the days following Ian off the coast of southwestern Florida.  Researchers 
+from Florida Gulf Coast University also noted significant damage to artificial reefs in the region14. 
+More than 100,000 homes were damaged or destroyed in Cuba due to Ian.  According to 
+news reports, this represents 60% of all the homes in the Pinar del Río province.  It was also 
+reported that while the hurricane made landfall in western Cuba, the entire island lost power for a 
+few days.  At the time of this report, there is no monetary damage estimate available for Cuba. 
+ 
+FORECAST AND WARNING CRITIQUE 
+ 
+Genesis 
+The genesis of Ian was reasonably well forecast.  The tropical wave from which Ian 
+developed was introduced in the Tropical Weather Outlook (TWO) with a low (<40%) 5-day 
+probability of formation 84 h prior to genesis (Table 4).  At 72 h prior to genesis, the system was 
+first given a low 2-day chance of development, and the 5-day genesis probability was raised to 
+the medium (40%–60%) category. A Special TWO was issued just before 1500 UTC  
+20 September, 63 h before genesis, where the 2- and 5-day probabilities of development were 
+raised to the medium and high (>60%) categories, respectively.  Finally, the 2-day probabilities 
+were increased to the high category 54 h before development.  In terms of the location of genesis, 
+NHC forecasters did a good job of highlighting the correct area.  Ian’s genesis location occurred in 
+100% of the areas shown in the outlooks issued, roughly in the center of the summed areas  
+(Fig. 23).   
+ 
+Track 
+A verification of NHC official track forecasts for Ian is given in Table 5a.  The average 
+official track forecast errors were lower than the mean official errors for the previous 5-yr period 
+at 12, 24, and 120 h, comparable to the 5-yr means at 36 and 48 h, and higher than the 5-yr 
+means at 72 and 96 h.  A homogeneous comparison of the official track errors with selected 
+                                               
+14 https://wusfnews.wusf.usf.edu/environment/2022-11-02/hurricane-ian-ruined-man-made-reefs-brought-
+algae-blooms-to-florida  
+=== PAGE 15 ===
+Hurricane Ian     15 
+ 
+guidance models is given in Table 5b and Figs. 24 and 25.  While the official track forecast through 
+60 h had errors lower than or comparable to the 5-yr mean errors, most of the consensus models 
+outperformed the NHC forecast at these lead times.  The best performing model in the short-term 
+forecast (through 36 h) was the Florida State Superensemble (FSSE).  The consensus model 
+HCCA, the United Kingdom Met Office global model (EGRI), and the COAMPS-TC model (CTCI) 
+provided the best guidance at 48, 60, and 72 and 96 h, respectively.  Of the dynamical models, 
+the Canadian model (CMCI), the GFS ensemble mean (AEMI), and HWRF (HWFI) tended to 
+have the greatest track errors.  Examination of the individual official forecasts revealed the  
+cross-track error to be the largest source of error with a consistent westward bias noted (Fig. 26).  
+While the left-of-track bias made forecasting the exact landfall location of the Ian in southwestern 
+Florida difficult, the forecast track cone of uncertainty did contain the landfall location for all 
+advisory cycles (Fig. 27).  In general, storms that parallel a coastline tend to be more challenging 
+to predict because a small change in heading can cause large differences in the landfall location.  
+Ian was an example of this particular challenge. 
+ 
+Intensity 
+A verification of the NHC official intensity forecasts for Ian is given in Table 6a.  Official 
+intensity forecast errors were greater than the mean official errors for the previous 5-yr period 
+largely due to Ian’s rapid intensification.  The climatology-persistence (OCD5) errors were also 
+higher than the corresponding 5-yr average values at all forecast periods, indicating Ian’s intensity 
+was more difficult than normal to predict.  A homogeneous comparison of the official intensity 
+errors with selected guidance models is given in Table 6b and Figs. 28 and 29.  While the NHC 
+forecast was very hard to improve upon through 48 h, the regional dynamical model HMON 
+(HMNI) had the best predictions at 36-60 h, while the CTCI had the best predictions at 72 and 
+120 h.  The statistical model LGEM had the lowest errors at 96 h.  The greatest challenge for the 
+official forecast was an inability to predict the second instance of rapid intensification after Ian 
+moved north of Cuba, leading to the peak intensity of 140 kt (Fig. 30).  Both HMNI and CTCI had 
+forecasts with intensities closer to the observed peak.  It is also worth noting that there was a low 
+bias in the NHC intensity forecasts at longer lead times when Ian emerged over the Atlantic 
+Ocean.  This was due to several official track forecasts that showed the storm remaining over the 
+southeastern U.S. and not emerging over the western Atlantic.   
+ 
+Storm Surge Forecasts and Warnings 
+ 
+Storm surge watches and warnings associated with Ian are given in Table 7 and shown in 
+Fig. 7. A Storm Surge Watch was first issued at 0300 UTC 26 September for the Florida Keys 
+from the Card Sound Bridge to Key West, including the Dry Tortugas, and for the west coast of 
+Florida from Englewood to the Card Sound Bridge, including Florida Bay. Fort Myers Beach and 
+Estero Island, which experienced the worst of the storm surge event, were included in this first 
+storm surge watch area. The initial peak storm surge forecast was 4 to 7 ft AGL from Englewood 
+to Bonita Beach including Fort Myers Beach.  
+=== PAGE 16 ===
+Hurricane Ian     16 
+ 
+At 0900 UTC 26 September, the Storm Surge Watch was extended northward to the 
+Anclote River, Florida, including Tampa Bay. A Storm Surge Warning was issued at 2100 UTC 
+26 September from the Anclote River southward to Flamingo, Florida. At the time the warning 
+was issued, the peak storm surge forecast was 5 to 10 ft AGL from the Anclote River to the Middle 
+of Longboat Key including Tampa Bay, 5 to 8 ft AGL from the Middle of Longboat Key to 
+Englewood, and 4 to 7 ft AGL from Englewood to Bonita Beach including Fort Myers Beach.  
+The Storm Surge Warning did not verify north of Englewood due to a southward shift in 
+the track of Ian. As previously noted, sharp gradients in the water level measurements (e.g.  
+Fig. 8, Fig. 9a) demonstrate the sensitivity of storm surge to the exact track of the storm. The 
+track forecast uncertainty during the warning phase (i.e., within 36 h of the onset of hazardous 
+conditions) warranted the issuance of the storm surge warning for this large area however, as 
+only a small northward shift of the track could have caused extreme storm surge flooding in places 
+that were dry during Ian (not shown).  
+Figure 31 depicts the timeline of the storm surge watch/warning and peak storm surge 
+forecast ranges at Fort Myers Beach. It also shows the time of maximum wave-filtered water level 
+(12.70 ft above MHHW) from the USGS water level sensor located at Fort Myers Beach. The 
+storm surge watch and warning for this location were issued 48 and 30 h prior to the onset of 
+tropical-storm-force winds. On the morning of 27 September, the peak storm surge forecast range 
+increased from 4 to 7 ft AGL to 8 to 12 ft AGL as the forecast track of Ian shifted southward. On 
+the morning of 28 September, additional changes to the peak storm surge forecast were made 
+as a result of the intensification of Ian found by the hurricane hunter aircraft. The final peak storm 
+surge forecast range (12 to 18 ft AGL) captures the peak USGS water level sensor measurement 
+and is consistent with the NHC storm surge analysis of 10 to 15 ft AGL. 
+Along the Florida east coast, a Storm Surge Watch was first issued at 2100 UTC  
+26 September, extending from the Flagler/Volusia County line through the Florida/Georgia border 
+including the St. Johns River. The Storm Surge Watch was later upgraded to a Storm Surge 
+Warning as Ian was forecast to traverse the Florida Peninsula and emerge into the western 
+Atlantic Ocean as a tropical storm. Many portions of the warning area verified, including the  
+St. Johns River, with observed water levels reaching in excess of 3 ft AGL (which NHC uses as 
+a first-cut threshold for the storm surge watch/warning). The NHC storm surge analysis indicates 
+peak water levels of 3 to 5 ft AGL did extend southward into portions of Volusia County, which 
+was marginally outside of the storm surge watch/warning area. As previously noted, the storm 
+surge impacts in this area were contained to the wave action at the immediate beach.  
+In the storm surge warning area along the coast of Georgia through Charleston, South 
+Carolina, water levels reached 2 to 4 ft AGL, marginally meeting the criteria for the warning. The 
+track uncertainty at the time of the forecast supported the issuance of the warning. Ultimately, the 
+track shifted to the east and there were fewer storm surge impacts in this area. 
+In South Carolina, a Storm Surge Watch was first issued at 2100 UTC 28 September from 
+the South Santee River to Little River Inlet, including locations such as Georgetown and Myrtle 
+Beach. At the watch issuance time, the peak storm surge forecast was 2 to 4 ft AGL. The same 
+area was upgraded to a warning at 1500 UTC 29 September with a peak storm surge forecast of 
+3 to 5 ft AGL. The peak storm surge forecast increased to 4 to 7 ft AGL in subsequent advisories 
+as the forecast track of Ian shifted eastward. The warning area verified well with observations of 
+=== PAGE 17 ===
+Hurricane Ian     17 
+ 
+greater than 3 ft AGL. The final storm surge forecast range is consistent with the NHC storm surge 
+analysis of 4 to 6 ft in this area. 
+Storm surge watches/warnings were issued along the North Carolina coast at 1500 UTC 
+29 September with a peak storm surge forecast of 2 to 4 ft AGL. At this time, a small warning area 
+was also issued along the Neuse River where there was a favorable angle for strong onshore flow 
+from a frontal gradient. Six hours later, an additional portion of the watch between Little River Inlet 
+and Cape Fear was upgraded to a warning with a peak storm surge forecast of 3 to 5 ft AGL. The 
+forecast values in this area are consistent with the NHC storm surge analysis. In the storm surge 
+watch area between Cape Lookout and Cape Fear, water levels reached 2 to 4 ft AGL. 
+ 
+Wind Watches and Warnings 
+Coastal wind watches and warnings associated with Ian are given in Table 8.  A verification 
+of select coastal watches and warnings is provided below. 
+For the United States, a Tropical Storm Watch was first issued for the Florida Keys and 
+Dry Tortugas at 2100 UTC 25 September.  Tropical-storm-force winds are estimated to have 
+begun in the Florida Keys around 1500 UTC 27 September, about 42 h after the issuance of the 
+Tropical Storm Watch.  The watch was upgraded to a Tropical Storm Warning at 0300 UTC  
+25 September, about 36 h before the onset of tropical-storm-force winds.  A Hurricane Warning 
+was issued for the Dry Tortugas about 18 h before the arrival of tropical-storm-force winds.  
+A Tropical Storm Watch was first issued for the coastal region of southwestern Florida 
+about 48 h before the arrival of tropical-storm-force winds (estimated to be 0300 UTC  
+28 September).  A Tropical Storm Warning and a Hurricane Watch were issued for the Fort Myers 
+area at 2100 UTC 26 September, about 30 h before the arrival of tropical-storm-force winds.  A 
+Hurricane Warning was issued for this area at 0900 UTC 27 September, about 18 h before the 
+onset of tropical-storm-force winds on the barrier islands. 
+For Georgetown County, South Carolina, where Ian made landfall, a Tropical Storm Watch 
+was not issued, but a Tropical Storm Warning was issued at 1500 UTC 28 September, about  
+39 h before the arrival of tropical-storm-force winds.  The Tropical Storm Warning was upgraded 
+to a Hurricane Warning at 1500 UTC 29 September, about 15 h before the onset of tropical-storm-
+force winds.   
+ 
+Impact-based 
+Decision 
+Support 
+Services 
+(IDSS) 
+and 
+Public 
+Communication 
+ 
+The NHC began communication with emergency managers on Friday, 23 September as 
+Ian was forming over the east-central Caribbean Sea. Twenty-four decision support briefings were 
+provided to emergency managers and coordinated through the FEMA Hurricane Liaison Team 
+embedded at the NHC. These briefings continued until the storm became extratropical over North 
+Carolina on Friday, 30 September and included 12 Federal video-teleconferences with FEMA HQ 
+and FEMA Region 4, and 11 webinar briefings for the Florida Division of Emergency Management 
+=== PAGE 18 ===
+Hurricane Ian     18 
+ 
+and counties in Florida. In addition, the NHC acting director maintained direct communications 
+with senior federal and state emergency management officials to discuss the evolving threat to 
+the southeast United States, including in-person briefings for FEMA Administrator Deanne 
+Criswell at the NHC on 26 September. 
+ 
+The Tropical Analysis and Forecast Branch of NHC provided 16 live briefings on Ian from 
+23 September to 1 October to the U.S. Coast Guard Districts 7 and 8 in support of their life-saving 
+mission. 
+ 
+During Hurricane Ian, the NHC media pool was activated from 7 AM to 7 PM EDT on  
+24 September with hours extended until 11 PM EDT as necessary. The media pool closed on  
+30 September at 6 PM EDT. A total of 282 interviews were conducted. These included: 1) 56 
+network broadcast/cable outlets; 2) 42 cable weather outlets; 3) 50 local affiliate outlets; 4) 81 
+English and Spanish virtual interviews; and 5) 40 radio and print. 
+NHC provided 13 live stream broadcasts via YouTube Live, Facebook, and Twitter during 
+the seven-day span of this media pool. These videos received more than two million views during 
+the seven-day period on all three platforms, with a peak total of 334,000 views during the  
+26 September broadcast as Ian approached the southwestern coast of Florida.  The total views 
+reached through the live streams for the event was 1.1 million through Facebook and 500,000 
+through YouTube. 
+The NHC web pages were accessed approximately 224 million times between  
+23 September and 1 October resulting in approximately 4.2 billion hits (Ian generated most of the 
+traffic during this period). A majority of the page views went to graphical products such as the key 
+messages, cone graphic, and the wind speed probabilities. The key messages graphics for Ian 
+were viewed approximately 26 million times on the NHC website.  Non-automated tweets about 
+Ian garnered 38.9 million views during the storm, with about 12.4 million views of the Key Message 
+graphics.   
+ 
+ACKNOWLEDGEMENTS 
+Much of the data in this report came from Post Tropical Cyclone (PSH) Reports issued by 
+NWS Weather Forecast Offices (WFOs) in Tampa Bay, Melbourne, Miami, Key West, and 
+Jacksonville, Florida; Charleston and Greer, South Carolina; and Wilmington and Morehead City, 
+North Carolina. David Roth of the NOAA Weather Prediction Center produced the rainfall map 
+and much of the rainfall data. Data from the National Data Buoy Center, NOS Center for 
+Operational Oceanographic Products and Services, United States Geological Survey, Storm 
+Prediction Center, and the Cuban Meteorological Service were also used in this report.  The 
+authors would like to thank those at NHC for their contributions to this report.  Michael Spagnolo 
+and Matthew Green from FEMA supplied the IDSS briefing information; Dr. Chris Landsea 
+supplied the TAFB briefing information; Maria Torres provided the media information; Dr. Matthew 
+Onderlinde provided the website information and the cone figure; Dr. Philippe Papin provided the 
+genesis figure; John Cangialosi provided the direct and indirect fatality locations figure; Dr. Cody 
+Fritz, Dr. Heather Nepaul, William Booth, and Joshua Alland contributed to the storm surge 
+analysis and figures; and the Hurricane Specialist Unit peer reviewed the report.  The authors 
+=== PAGE 19 ===
+Hurricane Ian     19 
+ 
+would like to thank those outside NHC who provided data, images, and expertise. Steve Gregg 
+of WeatherFlow provided data from its network.  Dr. Forrest Masters and Dr. Brian Phillips 
+provided the data from the Florida Coastal Monitoring Program mobile towers.  Maxwell Olson 
+provided storm surge videos.  Josh Morgerman provided data and images.  The National Centers 
+for Environmental Information provided the monetary damage estimate for the United States. Dr. 
+Heather Holbach, Dr. Paul Reasor, and Dr. Michael Fischer of the Hurricane Research Division 
+were very helpful in analyzing some of the aircraft data. 
+ 
+=== PAGE 20 ===
+Hurricane Ian     20 
+ 
+TABLES 
+ 
+Table 1. 
+Best track for Hurricane Ian, 23–30 September 2022.   
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+22 / 1800 
+12.3 
+66.3 
+1006 
+30 
+low 
+23 / 0000 
+12.9 
+67.2 
+1006 
+30 
+" 
+23 / 0600 
+13.7 
+68.1 
+1006 
+30 
+tropical depression 
+23 / 1200 
+14.2 
+69.3 
+1006 
+30 
+" 
+23 / 1800 
+14.6 
+70.6 
+1006 
+30 
+" 
+24 / 0000 
+14.7 
+71.7 
+1005 
+35 
+tropical storm 
+24 / 0600 
+14.7 
+72.9 
+1005 
+35 
+" 
+24 / 1200 
+14.5 
+74.4 
+1003 
+40 
+" 
+24 / 1800 
+14.4 
+75.8 
+1003 
+40 
+" 
+25 / 0000 
+14.6 
+77.2 
+1003 
+40 
+" 
+25 / 0600 
+14.6 
+78.3 
+1003 
+40 
+" 
+25 / 1200 
+15.0 
+79.4 
+1003 
+40 
+" 
+25 / 1800 
+15.8 
+80.1 
+1003 
+40 
+" 
+26 / 0000 
+16.8 
+80.9 
+991 
+50 
+" 
+26 / 0600 
+17.7 
+81.7 
+985 
+65 
+hurricane 
+26 / 1200 
+18.7 
+82.4 
+981 
+70 
+" 
+26 / 1800 
+19.7 
+83.0 
+976 
+80 
+" 
+27 / 0000 
+20.8 
+83.3 
+965 
+85 
+" 
+27 / 0600 
+21.8 
+83.6 
+956 
+100 
+" 
+27 / 0830 
+22.2 
+83.7 
+947 
+110 
+" 
+27 / 1200 
+22.6 
+83.6 
+963 
+100 
+" 
+27 / 1800 
+23.5 
+83.3 
+951 
+105 
+" 
+28 / 0000 
+24.4 
+83.0 
+947 
+105 
+" 
+28 / 0200 
+24.6 
+82.9 
+952 
+110 
+" 
+=== PAGE 21 ===
+Hurricane Ian     21 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+28 / 0600 
+25.2 
+82.9 
+945 
+120 
+" 
+28 / 1200 
+26.0 
+82.7 
+937 
+140 
+" 
+28 / 1800 
+26.6 
+82.4 
+938 
+135 
+" 
+28 / 1905 
+26.7 
+82.2 
+941 
+130 
+" 
+28 / 2035 
+26.8 
+82.0 
+945 
+125 
+" 
+29 / 0000 
+27.2 
+81.7 
+960 
+100 
+" 
+29 / 0600 
+27.7 
+81.1 
+985 
+65 
+" 
+29 / 1200 
+28.4 
+80.6 
+987 
+60 
+tropical storm 
+29 / 1800 
+28.9 
+80.1 
+986 
+65 
+hurricane 
+30 / 0000 
+29.6 
+79.4 
+986 
+70 
+" 
+30 / 0600 
+30.3 
+79.1 
+984 
+75 
+" 
+30 / 1200 
+31.5 
+79.0 
+980 
+75 
+" 
+30 / 1800 
+33.3 
+79.2 
+978 
+70 
+" 
+30 / 1805 
+33.3 
+79.2 
+978 
+70 
+" 
+01 / 0000 
+34.4 
+79.3 
+990 
+50 
+extratropical 
+01 / 0600 
+35.3 
+79.7 
+999 
+30 
+" 
+01 / 1200 
+ 
+ 
+ 
+ 
+dissipation 
+28 / 1200 
+26.0 
+82.7 
+937 
+140 
+minimum pressure & 
+maximum wind 
+27 / 0830 
+22.2 
+83.7 
+947 
+110 
+Landfall near La 
+Coloma in the Pinar 
+Del Rio Province of 
+Cuba 
+28 / 0200 
+24.6 
+82.9 
+952 
+110 
+Landfall in the Dry 
+Tortugas, Florida 
+28 / 1905 
+26.7 
+82.2 
+941 
+130 
+Landfall near Cayo 
+Costa, Florida 
+28 / 2035 
+26.8 
+82.0 
+945 
+125 
+Landfall near Punta 
+Gorda, Florida 
+30 / 1805 
+33.3 
+79.2 
+978 
+70 
+Landfall near 
+Georgetown, South 
+Carolina 
+ 
+ 
+=== PAGE 22 ===
+Hurricane Ian     22 
+ 
+Table 2. 
+Selected ship reports with winds of at least 34 kt for Hurricane Ian, 23‒30 
+September 2022. 
+Date/Time 
+(UTC) 
+Ship call 
+sign 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Wind 
+dir/speed (kt) 
+Pressure 
+(mb) 
+27 / 1100 
+9V3143 
+22.6 
+78.1 
+110 /  45 
+1022.4 
+27 / 1900 
+V7IJ2 
+23.4 
+82.6 
+150 /  45 
+1002.0 
+27 / 2000 
+V7IJ2 
+23.4 
+82.1 
+150 /  45 
+ 
+27 / 2100 
+V7IJ2 
+23.4 
+82.1 
+150 /  55 
+1001.0 
+27 / 2100 
+WHIA 
+23.4 
+81.6 
+150 /  35 
+1002.2 
+27 / 2200 
+WHIA 
+23.4 
+81.7 
+170 /  39 
+1001.5 
+27 / 2300 
+WHIA 
+23.4 
+81.8 
+180 /  38 
+1000.9 
+28 / 0000 
+V7IJ2 
+23.4 
+81.6 
+180 /  50 
+1001.0 
+28 / 0200 
+WHIA 
+23.4 
+81.2 
+180 /  38 
+1007.0 
+28 / 0300 
+V7IJ2 
+23.4 
+82.1 
+200 /  45 
+1002.0 
+28 / 0300 
+ELVQ7 
+24.5 
+79.4 
+140 /  42 
+1008.0 
+28 / 0600 
+WOTA 
+25.7 
+79.8 
+120 /  42 
+1007.6 
+28 / 1000 
+WMCU 
+25.8 
+79.4 
+140 /  35 
+1006.6 
+28 / 1200 
+TBWUK8 
+28.9 
+89.3 
+110 /  35 
+1017.3 
+28 / 1300 
+WOTA 
+24.8 
+79.6 
+170 /  45 
+1007.3 
+28 / 1500 
+ELVQ7 
+24.2 
+80.1 
+160 /  38 
+1008.0 
+28 / 1500 
+WMCU 
+25.0 
+79.5 
+180 /  35 
+1008.0 
+28 / 1600 
+D5BF7 
+31.8 
+79.6 
+050 /  36 
+1014.0 
+28 / 1700 
+WMCU 
+24.6 
+79.7 
+180 /  35 
+1007.4 
+28 / 1800 
+KPSJ 
+26.2 
+79.7 
+180 /  35 
+1004.9 
+28 / 2100 
+KS1059 
+29.0 
+80.4 
+050 /  35 
+1007.2 
+28 / 2200 
+9HA540 
+31.9 
+78.1 
+020 /  42 
+1016.0 
+29 / 0000 
+KS1059 
+29.0 
+80.4 
+040 /  41 
+1004.9 
+29 / 1700 
+A8SI7 
+31.3 
+77.3 
+050 /  42 
+1008.3 
+29 / 2000 
+KS1059 
+29.0 
+80.2 
+310 /  35 
+990.9 
+29 / 2100 
+KS1059 
+29.0 
+80.2 
+320 /  44 
+990.6 
+29 / 2200 
+KS1059 
+29.0 
+80.1 
+320 /  40 
+991.4 
+29 / 2300 
+KS1059 
+29.0 
+80.1 
+340 /  50 
+992.1 
+29 / 2300 
+WDM218 
+32.9 
+77.6 
+230 /  43 
+1009.9 
+=== PAGE 23 ===
+Hurricane Ian     23 
+ 
+Date/Time 
+(UTC) 
+Ship call 
+sign 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Wind 
+dir/speed (kt) 
+Pressure 
+(mb) 
+30 / 0000 
+KS1059 
+29.0 
+80.1 
+330 /  50 
+993.8 
+30 / 0100 
+KS1059 
+29.0 
+80.0 
+320 /  45 
+995.7 
+30 / 0200 
+KS1059 
+28.9 
+80.0 
+320 /  39 
+997.7 
+30 / 0300 
+KS1059 
+28.9 
+80.0 
+310 /  46 
+998.6 
+30 / 0400 
+KS1059 
+28.9 
+80.0 
+290 /  35 
+999.9 
+30 / 0400 
+A8SI7 
+31.1 
+74.8 
+180 /  35 
+1007.3 
+30 / 0700 
+OUJK2 
+36.5 
+75.2 
+050 /  35 
+1011.0 
+30 / 1200 
+H3BL 
+32.0 
+72.4 
+090 /  35 
+1011.9 
+30 / 1500 
+WDM218 
+32.4 
+75.6 
+150 /  44 
+1004.3 
+30 / 1800 
+WDM218 
+32.3 
+75.7 
+160 /  44 
+1004.1 
+30 / 1800 
+9HA564 
+36.5 
+75.2 
+050 /  45 
+1011.2 
+30 / 1900 
+OUJK2 
+36.6 
+75.1 
+050 /  55 
+1004.0 
+ 
+ 
+ 
+ 
+ 
+ 
+=== PAGE 24 ===
+Hurricane Ian     24 
+ 
+Table 3. 
+Selected storm surge observations for Hurricane Ian, 23‒30 September 2022. 
+Location 
+Storm surge 
+(ft)a 
+Storm 
+tide 
+(ft)b 
+Estimated Inundation 
+(ft)c 
+Florida 
+ 
+ 
+ 
+National Ocean 
+Service (NOS) Sites 
+ 
+ 
+ 
+Old Port Tampa (OPTF1)  
+(27.85N, 82.55W) 
+1.09 
+2.12 
+1.34 
+Fort Myers (FMRF1)  
+(26.64N, 81.87W) 
+7.25 
+7.53 
+7.26 
+Naples (NPSF1)  
+(26.13N, 81.8W) 
+6.28* 
+6.79* 
+6.18* 
+Key West (KYWF1)  
+(24.55N, 81.8W) 
+2.12 
+2.5 
+2.46 
+Mayport (Bar Pilots Dock) 
+(MYPF1)  
+(30.39N, 81.42W) 
+3.71 
+4.45 
+2.48 
+I-295 Buckman Bridge 
+(BKBF1)  
+(30.19N, 81.69W) 
+2.85 
+3.45 
+3.06 
+ 
+ 
+ 
+ 
+US Geological Survey 
+(USGS) Water Level 
+Sensors 
+ 
+ 
+ 
+Fort Myers Beach 
+(FLLEE03382)  
+(26.45N, 81.95W) 
+ 
+13.23 
+12.70 
+Sanibel Island 
+(FLLEE26290) 
+(26.42N, 82.08W) 
+ 
+13.09 
+12.58 
+Pirate Harbor 
+(FLCHA03379)   
+(26.8N, 82.05W) 
+ 
+4.69 
+4.47 
+Punta Rassa 
+(FLLEE03246)   
+(26.48N, 82.01W) 
+ 
+8.83 
+8.37 
+San Carlos Island 
+(FLLEE03284)   
+(26.45N, 81.95W) 
+ 
+12.06 
+11.62 
+Delnor-Wiggins State 
+Park (FLCOL03294)   
+(26.27N, 81.82W) 
+ 
+10.24 
+9.73 
+=== PAGE 25 ===
+Hurricane Ian     25 
+ 
+Location 
+Storm surge 
+(ft)a 
+Storm 
+tide 
+(ft)b 
+Estimated Inundation 
+(ft)c 
+Naples Bay 
+(FLCOL03297) 
+(26.14N, 81.79W) 
+ 
+7.10 
+ 
+Marco Island 
+(FLCOL03171) 
+(25.94N, 81.74W) 
+ 
+7.38 
+6.74 
+Everglades City 
+(FLCOL03237) 
+(25.84N, 81.38W) 
+ 
+7.33 
+6.51 
+ 
+ 
+ 
+ 
+USGS High Water 
+Marks 
+ 
+ 
+ 
+Lee County 
+(FLLEE32905) 
+(26.65N, 81.86W) 
+ 
+7.7 
+4.43 
+Lee County 
+(FLLEE33028) 
+(26.48N, 81.85W) 
+ 
+10.8 
+8.31 
+Collier County 
+(FLCOL03170) 
+(25.96N, 81.71W) 
+ 
+6.99 
+4.71 
+ 
+ 
+ 
+ 
+NWS High Water 
+Marks 
+ 
+ 
+ 
+Lee County  
+(26.45N,81.96W) 
+ 
+ 
+15.0 
+ 
+ 
+ 
+ 
+Georgia 
+ 
+ 
+ 
+National Ocean 
+Service (NOS) Sites 
+ 
+ 
+ 
+Fort Pulaski (FPKG1)  
+(32.03N, 80.9W) 
+3.85 
+5.47 
+2.01 
+ 
+ 
+ 
+ 
+South Carolina 
+ 
+ 
+ 
+National Ocean 
+Service (NOS) Sites 
+ 
+ 
+ 
+Charleston (CHTS1) 
+(32.78N, 79.92W) 
+2.56 
+4.51 
+1.89 
+Springmaid Pier (MROS1) 
+(33.65N, 78.91W) 
+6.41 
+7.62 
+5.17 
+=== PAGE 26 ===
+Hurricane Ian     26 
+ 
+Location 
+Storm surge 
+(ft)a 
+Storm 
+tide 
+(ft)b 
+Estimated Inundation 
+(ft)c 
+ 
+ 
+ 
+ 
+USGS Stream Gauges 
+ 
+ 
+ 
+Pee Dee River, 
+Georgetown (2136350) 
+(33.37N,79.26W) 
+ 
+5.47 
+3.36 
+ 
+ 
+ 
+ 
+North Carolina 
+ 
+ 
+ 
+National Ocean 
+Service (NOS) Sites 
+ 
+ 
+ 
+Wrightsville Beach 
+(JMPN7)  
+(34.21N, 77.78W) 
+4.03 
+5.27 
+3.54 
+Wilmington (WLON7) 
+(34.22N, 77.95W) 
+5.06 
+5.06 
+2.98 
+Beaufort, Duke Marine 
+Lab (BFTN7)  
+(34.71N, 76.67W) 
+3.3 
+4.3 
+2.84 
+ 
+a  Storm surge is water height above normal astronomical tide level. 
+b  Storm tide is water height above the North American Vertical Datum of 1988 (NAVD88). 
+c  Estimated inundation is the maximum height of water above ground.  For USGS water level sensors and stream 
+gauges, inundation is estimated by converting the NAVD88 measurement to Mean Higher High Water (MHHW) using 
+the NOAA VDatum tool.  For USGS high-water marks, estimated inundation is the direct above ground measurement. 
+For NWS high-water marks, estimated inundation is approximated as the water level height above the high tide line 
+(MHHW). For NOS tide gauges, the height of the water above MHHW is used as a proxy for inundation. 
+*   Incomplete 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== PAGE 27 ===
+Hurricane Ian     27 
+ 
+Table 4. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+120-Hour Outlook 
+Low (<40%) 
+72 
+84 
+Medium (40%-60%) 
+63 
+72 
+High (>60%) 
+54 
+63 
+ 
+Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Ian, 23‒30 September 2022.  Mean errors for 
+the previous 5-yr period are shown for comparison.  Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+ 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+18.3 
+32.0 
+50.9 
+67.8 
+87.6 
+110.5 
+140.3 
+141.8 
+OCD5 
+39.3 
+90.6 
+147.7 
+195.8 
+248.7 
+303.1 
+442.4 
+589.7 
+Forecasts 
+29 
+27 
+25 
+23 
+21 
+19 
+15 
+11 
+OFCL (2017-21) 
+23.6 
+35.5 
+47.6 
+61.4 
+78.2 
+91.3 
+125.6 
+172.1 
+OCD5 (2017-21) 
+45.5 
+98.3 
+156.7 
+213.7 
+252.4 
+316.9 
+403.6 
+484.6 
+ 
+ 
+=== PAGE 28 ===
+Hurricane Ian     28 
+ 
+Table 5b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Ian, 23‒30 September 2022. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 5a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+18.7 
+32.8 
+50.2 
+66.9 
+87.5 
+115.6 
+151.8 
+152.7 
+OCD5 
+37.3 
+82.3 
+131.8 
+173.5 
+230.4 
+290.9 
+468.0 
+719.6 
+GFSI 
+18.2 
+36.4 
+60.5 
+86.9 
+113.0 
+158.9 
+228.2 
+266.7 
+EMXI 
+22.6 
+39.7 
+56.7 
+73.0 
+90.1 
+112.8 
+136.5 
+128.9 
+EGRI 
+19.3 
+34.0 
+41.0 
+48.2 
+67.1 
+94.3 
+164.7 
+203.3 
+CMCI 
+24.9 
+49.6 
+76.9 
+105.5 
+133.6 
+162.1 
+207.3 
+271.3 
+HWFI 
+23.5 
+44.8 
+69.8 
+91.9 
+117.1 
+156.8 
+238.7 
+252.0 
+HMNI 
+23.2 
+39.1 
+54.0 
+63.1 
+74.5 
+95.2 
+156.0 
+195.4 
+CTCI 
+21.9 
+36.8 
+48.9 
+59.6 
+72.2 
+87.2 
+98.5 
+187.5 
+AEMI 
+22.2 
+46.2 
+73.3 
+102.8 
+132.2 
+173.0 
+228.5 
+247.7 
+HCCA 
+16.9 
+30.2 
+43.1 
+54.6 
+71.5 
+97.1 
+141.8 
+146.9 
+FSSE 
+16.0 
+26.6 
+40.0 
+55.5 
+73.5 
+98.0 
+160.6 
+186.4 
+GFEX 
+19.2 
+35.6 
+56.6 
+76.2 
+98.5 
+131.8 
+176.2 
+186.2 
+TVCA 
+17.9 
+33.0 
+49.0 
+63.6 
+81.3 
+109.9 
+154.0 
+165.7 
+TVCX 
+18.4 
+32.6 
+49.1 
+64.3 
+81.2 
+108.7 
+152.6 
+161.9 
+TVDG 
+17.5 
+32.4 
+47.7 
+63.6 
+83.0 
+112.1 
+159.9 
+170.3 
+TABD 
+27.0 
+46.4 
+67.4 
+81.6 
+103.6 
+131.9 
+245.0 
+367.7 
+TABM 
+27.6 
+59.4 
+86.9 
+108.8 
+126.7 
+163.6 
+241.0 
+306.2 
+TABS 
+54.5 
+125.1 
+180.7 
+213.5 
+220.8 
+228.3 
+279.2 
+340.1 
+Forecasts 
+24 
+22 
+20 
+18 
+16 
+14 
+10 
+6 
+ 
+ 
+ 
+ 
+=== PAGE 29 ===
+Hurricane Ian     29 
+ 
+Table 6a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Ian, 23‒30 September 2022.  Mean errors for the 
+previous 5-yr period are shown for comparison.  Official errors that are smaller 
+than the 5-yr means are shown in boldface type.   
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+7.6 
+9.3 
+11.0 
+12.4 
+15.2 
+12.9 
+18.7 
+20.9 
+OCD5 
+11.4 
+16.7 
+21.1 
+25.3 
+31.8 
+40.7 
+43.4 
+41.2 
+Forecasts 
+29 
+27 
+25 
+23 
+21 
+19 
+15 
+11 
+OFCL (2017-21) 
+5.4 
+8.0 
+9.5 
+10.9 
+11.0 
+12.1 
+13.1 
+14.7 
+OCD5 (2017-21) 
+7.0 
+11.1 
+14.5 
+17.1 
+18.0 
+20.2 
+21.9 
+22.1 
+ 
+ 
+ 
+=== PAGE 30 ===
+Hurricane Ian     30 
+ 
+Table 6b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Ian, 23‒30 September 2022. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 6a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+8.1 
+10.7 
+12.8 
+14.4 
+17.2 
+15.4 
+17.5 
+19.2 
+OCD5 
+13.0 
+19.2 
+23.6 
+26.9 
+34.9 
+38.9 
+45.7 
+25.2 
+HWFI 
+10.4 
+11.0 
+14.6 
+17.1 
+18.3 
+15.0 
+17.6 
+32.2 
+HMNI 
+11.2 
+14.0 
+11.1 
+13.9 
+14.1 
+19.0 
+20.6 
+20.0 
+CTCI 
+12.5 
+14.7 
+13.4 
+17.2 
+16.9 
+14.0 
+20.6 
+10.2 
+DSHP 
+10.5 
+15.0 
+19.0 
+20.4 
+21.8 
+22.0 
+17.4 
+19.2 
+LGEM 
+11.5 
+15.7 
+19.6 
+18.7 
+22.2 
+22.4 
+14.0 
+16.7 
+ICON 
+10.1 
+11.5 
+14.8 
+15.6 
+17.3 
+17.4 
+16.4 
+17.0 
+IVCN 
+10.4 
+11.5 
+14.1 
+15.9 
+16.9 
+16.0 
+16.7 
+15.2 
+IVDR 
+10.4 
+11.3 
+12.4 
+14.6 
+15.8 
+14.5 
+16.9 
+15.7 
+HCCA 
+9.2 
+12.3 
+17.6 
+18.1 
+18.0 
+16.7 
+15.3 
+16.0 
+FSSE 
+10.0 
+13.6 
+19.6 
+23.1 
+24.7 
+25.5 
+17.2 
+20.7 
+GFSI 
+11.3 
+13.7 
+15.2 
+15.1 
+15.2 
+12.9 
+14.4 
+17.0 
+EMXI 
+11.9 
+15.5 
+20.6 
+23.5 
+31.9 
+30.2 
+33.2 
+20.5 
+Forecasts 
+24 
+22 
+20 
+18 
+16 
+14 
+10 
+6 
+ 
+ 
+ 
+=== PAGE 31 ===
+Hurricane Ian     31 
+ 
+Table 7. 
+Storm Surge watch and warning summary for Hurricane Ian, 23‒30 September 
+2022. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+26/0300 
+Storm Surge Watch issued 
+Florida Keys from the Card Sound 
+Bridge westward to Key West, including 
+the Dry Tortugas, and for the west 
+coast of Florida from Englewood 
+southward to the Card Sound Bridge, 
+including Florida Bay 
+26/0900 
+Storm Surge Watch issued 
+Englewood FL to the Anclote River FL 
+26/2100 
+Storm Surge Warning issued 
+Anclote River FL southward to 
+Flamingo FL, including Tampa Bay 
+26/2100 
+Storm Surge Watch issued 
+Anclote River FL to Aucilla River FL 
+27/1500 
+Storm Surge Warning issued 
+Marineland FL to the mouth of St. 
+Mary's River including the St. Johns 
+River, the Dry Tortugas, and the 
+Suwanee River FL to Anclote River FL 
+27/1500 
+Storm Surge Watch issued 
+St. Mary's River to South Santee River 
+SC 
+27/2100 
+Storm Surge Warning issued 
+Marineland FL to the Flagler/Volusia 
+County Line 
+27/2100 
+Storm Surge Watch discontinued 
+Aucilla River FL to the Suwannee River 
+FL 
+28/0430 
+Storm Surge Warning issued 
+Lower Florida Keys from Big Pine Key 
+westward to Key West 
+28/1500 
+Storm Surge Warning issued 
+St. Mary's River to South Santee River 
+SC 
+28/2100 
+Storm Surge Watch issued 
+South Santee River SC to Little River 
+Inlet 
+=== PAGE 32 ===
+Hurricane Ian     32 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+28/2100 
+Storm Surge Warning discontinued 
+Lower Florida Keys 
+28/2100 
+Storm Surge Watch discontinued 
+Middle and Upper Florida Keys 
+29/0300 
+Storm Surge Watch discontinued 
+Flamingo eastward to the Card Sound 
+Bridge, including Florida Bay 
+29/0900 
+Storm Surge Warning discontinued 
+Suwannee River FL to the Middle of 
+Longboat Key including Tampa Bay 
+29/1200 
+Storm Surge Warning discontinued 
+Middle of Longboat Key to Flamingo FL 
+including Charlotte Harbor 
+29/1500 
+Storm Surge Warning issued 
+South Santee River SC to Little River 
+Inlet and for the Neuse River in NC 
+29/1500 
+Storm Surge Watch issued 
+Little River Inlet to Duck NC, including 
+the Pamlico River 
+29/2100 
+Storm Surge Warning issued 
+Little River Inlet to Cape Fear NC 
+29/2100 
+Storm Surge Watch issued 
+Cape Fear River 
+30/1500 
+Storm Surge Warning discontinued 
+Savannah River to Marineland FL, 
+including the St. Johns River 
+30/2100 
+Storm Surge Warning discontinued 
+South Santee River SC to the 
+Savannah River 
+01 / 0000 
+Storm Surge Warning discontinued 
+Cape Fear NC to South Santee River 
+SC 
+01 / 0000 
+Storm Surge Watch discontinued 
+Cape Fear to Surf City, including the 
+Cape Fear River 
+=== PAGE 33 ===
+Hurricane Ian     33 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+01 / 0300 
+Storm Surge Watch/Warning 
+discontinued 
+All 
+ 
+ 
+ 
+=== PAGE 34 ===
+Hurricane Ian     34 
+ 
+Table 8. 
+Wind watch and warning summary for Hurricane Ian, 23‒30 September 2022. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+23 / 2100 
+Tropical Storm Watch issued 
+Jamaica 
+23 / 2100 
+Hurricane Watch issued 
+Cayman Is 
+24 / 1800 
+Tropical Storm Watch issued 
+Little Cayman to Cayman Brac 
+24 / 1800 
+Hurricane Watch discontinued 
+All 
+24 / 1800 
+Hurricane Warning issued 
+Grand Cayman 
+24 / 2100 
+Tropical Storm Watch 
+discontinued 
+Jamaica 
+25 / 0300 
+Tropical Storm Watch issued 
+Matanzas to La Habana 
+25 / 0300 
+Hurricane Watch issued 
+Isla de Juventud 
+25 / 0300 
+Hurricane Watch issued 
+Artemisa to Pinar del Rio 
+25 / 1500 
+Tropical Storm Watch changed to 
+Tropical Storm Warning 
+Matanzas to La Habana 
+25 / 1500 
+Hurricane Watch changed to 
+Hurricane Warning 
+Isla de Juventud 
+25 / 1500 
+Hurricane Watch changed to 
+Hurricane Warning 
+Artemisa to Pinar del Rio 
+25 / 1500 
+Tropical Storm Watch 
+discontinued 
+All 
+25 / 1800 
+Tropical Storm Watch issued 
+Little Cayman to Cayman Brac 
+25 / 2100 
+Tropical Storm Watch issued 
+Dry Tortugas to Seven Mile Bridge 
+=== PAGE 35 ===
+Hurricane Ian     35 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+26 / 0300 
+Tropical Storm Watch changed to 
+Tropical Storm Warning 
+Dry Tortugas to Seven Mile Bridge 
+26 / 0300 
+Tropical Storm Watch issued 
+Englewood to Chokoloskee 
+26 / 0900 
+Hurricane Watch issued 
+Anclote River to Englewood 
+26 / 1500 
+Tropical Storm Watch modified to 
+Englewood to Flamingo 
+26 / 1500 
+Tropical Storm Watch issued 
+Seven Mile Bridge to Channel 5 Bridge 
+26 / 1800 
+Hurricane Warning changed to 
+Tropical Storm Warning 
+Grand Cayman 
+26 / 2100 
+Tropical Storm Watch changed to 
+Tropical Storm Warning 
+Englewood to Flamingo 
+26 / 2100 
+Tropical Storm Warning changed 
+to Hurricane Warning 
+Dry Tortugas 
+26 / 2100 
+Hurricane Watch changed to 
+Hurricane Warning 
+Anclote River to Englewood 
+26 / 2100 
+Tropical Storm Watch 
+discontinued 
+Little Cayman to Cayman Brac 
+26 / 2100 
+Tropical Storm Watch issued 
+Indian Pass to Suwannee River 
+26 / 2100 
+Tropical Storm Watch issued 
+Jupiter Inlet to Altamaha Sound 
+26 / 2100 
+Tropical Storm Warning 
+discontinued 
+Grand Cayman 
+26 / 2100 
+Tropical Storm Warning issued 
+Key West to Seven Mile Bridge 
+26 / 2100 
+Hurricane Watch issued 
+Suwannee River to Anclote River 
+26 / 2100 
+Hurricane Watch issued 
+Englewood to Bonita Beach 
+=== PAGE 36 ===
+Hurricane Ian     36 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+27 / 0900 
+Tropical Storm Watch 
+discontinued 
+Seven Mile Bridge to Channel 5 Bridge 
+27 / 0900 
+Tropical Storm Watch modified to 
+Deerfield Beach to Jupiter Inlet 
+27 / 0900 
+Tropical Storm Warning modified 
+to 
+Key West to Channel 5 Bridge 
+27 / 0900 
+Tropical Storm Warning modified 
+to 
+Bonita Beach to Flamingo 
+27 / 0900 
+Tropical Storm Warning issued 
+Suwannee River to Anclote River 
+27 / 0900 
+Tropical Storm Warning issued 
+Jupiter Inlet to Volusia/Brevard CL 
+27 / 0900 
+Hurricane Watch discontinued 
+Englewood to Bonita Beach 
+27 / 0900 
+Hurricane Warning modified to 
+Anclote River to Bonita Beach 
+27 / 1500 
+Tropical Storm Watch 
+discontinued 
+Deerfield Beach to Jupiter Inlet 
+27 / 1500 
+Tropical Storm Watch modified to 
+Altamaha Sound to South Santee River 
+27 / 1500 
+Tropical Storm Watch issued 
+Flamingo to Blackwater Sound 
+27 / 1500 
+Tropical Storm Watch issued 
+Channel 5 Bridge to Boca Raton 
+27 / 1500 
+Tropical Storm Warning 
+discontinued 
+Jupiter Inlet to Volusia/Brevard CL 
+27 / 1500 
+Tropical Storm Warning issued 
+Boca Raton to Altamaha Sound 
+27 / 1500 
+Hurricane Watch issued 
+Bonita Beach to Chokoloskee 
+27 / 2100 
+Hurricane Warning changed to 
+Tropical Storm Warning 
+Isla de Juventud 
+=== PAGE 37 ===
+Hurricane Ian     37 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+27 / 2100 
+Tropical Storm Watch 
+discontinued 
+Indian Pass to Suwannee River 
+27 / 2100 
+Tropical Storm Watch 
+discontinued 
+Flamingo to Blackwater Sound 
+27 / 2100 
+Tropical Storm Watch 
+discontinued 
+Channel 5 Bridge to Boca Raton 
+27 / 2100 
+Tropical Storm Warning modified 
+to 
+Matanzas to Pinar del Rio 
+27 / 2100 
+Tropical Storm Warning modified 
+to 
+Indian Pass to Anclote River 
+27 / 2100 
+Tropical Storm Warning 
+discontinued 
+Bonita Beach to Flamingo 
+27 / 2100 
+Tropical Storm Warning modified 
+to 
+Key West to Altamaha Sound 
+27 / 2100 
+Tropical Storm Warning issued 
+Chokoloskee to Blackwater Sound 
+27 / 2100 
+Tropical Storm Warning issued 
+Bimini to Grand Bahama Island 
+27 / 2100 
+Hurricane Watch discontinued 
+All 
+27 / 2100 
+Hurricane Warning discontinued 
+Artemisa to Pinar del Rio 
+27 / 2100 
+Hurricane Warning modified to 
+Anclote River to Chokoloskee 
+28 / 0300 
+Tropical Storm Watch 
+discontinued 
+All 
+28 / 0300 
+Tropical Storm Warning modified 
+to 
+Key West to South Santee River 
+28 / 1500 
+Tropical Storm Warning 
+discontinued 
+Isla de Juventud 
+28 / 1500 
+Tropical Storm Warning 
+discontinued 
+Matanzas to Pinar del Rio 
+=== PAGE 38 ===
+Hurricane Ian     38 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+28 / 1500 
+Tropical Storm Warning modified 
+to 
+Key West to Sebastian Inlet 
+28 / 1500 
+Tropical Storm Warning issued 
+Flagler/Volusia CL to Little River Inlet 
+28 / 1500 
+Hurricane Watch issued 
+Flagler/Volusia CL to South Santee 
+River 
+28 / 1500 
+Hurricane Warning issued 
+Sebastian Inlet to Flagler/Volusia CL 
+28 / 1800 
+Hurricane Warning discontinued 
+Dry Tortugas 
+28 / 2100 
+Tropical Storm Watch issued 
+Surf City to Cape Lookout 
+28 / 2100 
+Tropical Storm Warning modified 
+to 
+Card Sound Bridge to Sebastian Inlet 
+28 / 2100 
+Tropical Storm Warning modified 
+to 
+Flagler/Volusia CL to Surf City 
+29 / 0300 
+Tropical Storm Warning modified 
+to 
+Chokoloskee to Flamingo 
+29 / 0300 
+Tropical Storm Warning modified 
+to 
+Boca Raton to Sebastian Inlet 
+29 / 0600 
+Tropical Storm Warning 
+discontinued 
+Chokoloskee to Flamingo 
+29 / 0600 
+Hurricane Warning modified to 
+Anclote River to Bonita Beach 
+29 / 0900 
+Tropical Storm Watch 
+discontinued 
+All 
+29 / 0900 
+Tropical Storm Warning 
+discontinued 
+Bimini to Grand Bahama Island 
+29 / 0900 
+Tropical Storm Warning modified 
+to 
+Indian Pass to Bonita Beach 
+29 / 0900 
+Tropical Storm Warning modified 
+to 
+Boca Raton to Cape Lookout 
+=== PAGE 39 ===
+Hurricane Ian     39 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+29 / 0900 
+Tropical Storm Warning 
+discontinued 
+Flagler/Volusia CL to Surf City 
+29 / 0900 
+Hurricane Warning discontinued 
+All 
+29 / 1200 
+Tropical Storm Warning modified 
+to 
+Jupiter Inlet to Cape Lookout 
+29 / 1500 
+Tropical Storm Warning 
+discontinued 
+Indian Pass to Bonita Beach 
+29 / 1500 
+Tropical Storm Warning modified 
+to 
+Jupiter Inlet to Savannah River 
+29 / 1500 
+Tropical Storm Warning issued 
+Little River Inlet to Duck 
+29 / 1500 
+Hurricane Watch modified to 
+Flagler/Volusia CL to Savannah River 
+29 / 1500 
+Hurricane Warning issued 
+Savannah River to Little River Inlet 
+29 / 1800 
+Tropical Storm Warning modified 
+to 
+Vero Beach to Savannah River 
+29 / 2100 
+Tropical Storm Warning modified 
+to 
+Cape Fear to Duck 
+29 / 2100 
+Hurricane Watch issued 
+Cape Fear to Surf City 
+29 / 2100 
+Hurricane Warning modified to 
+Savannah River to Cape Fear 
+30 / 0000 
+Tropical Storm Warning modified 
+to 
+Sebastian Inlet to Savannah River 
+30 / 0300 
+Hurricane Watch changed to 
+Tropical Storm Warning 
+Flagler/Volusia CL to Savannah River 
+30 / 0300 
+Tropical Storm Warning modified 
+to 
+Flagler/Volusia CL to Savannah River 
+30 / 0900 
+Tropical Storm Warning modified 
+to 
+Altamaha Sound to Savannah River 
+=== PAGE 40 ===
+Hurricane Ian     40 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+30 / 2100 
+Tropical Storm Warning 
+discontinued 
+Altamaha Sound to Savannah River 
+30 / 2100 
+Tropical Storm Warning modified 
+to 
+Edisto Beach to Duck 
+30 / 2100 
+Hurricane Watch discontinued 
+All 
+30 / 2100 
+Hurricane Warning discontinued 
+All 
+1 / 0000 
+Tropical Storm Warning modified 
+to 
+South Santee River to Duck 
+1 / 0300 
+Tropical Storm Warning 
+discontinued 
+All 
+ 
+ 
+  
+=== PAGE 41 ===
+Hurricane Ian     41 
+ 
+FIGURES 
+ 
+ 
+Figure 1. 
+Best track positions for Hurricane Ian, 23‒30 September 2022. Tracks during the extratropical stage are partially based on 
+analyses from the NOAA Weather Prediction Center. 
+=== PAGE 42 ===
+Hurricane Ian     42 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Ian, 23‒30 September 
+2022.  Aircraft observations have been adjusted for elevation using 90%, 80%, and 75% adjustment factors for observations 
+from 700 mb, 850 mb, and 925 mb, respectively. SATCON intensity estimates are from the Cooperative Institute for 
+Meteorological Satellite Studies. Dashed vertical lines correspond to 0000 UTC, and solid vertical lines correspond to landfalls. 
+=== PAGE 43 ===
+Hurricane Ian     43 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Ian, 23‒30 September 2022.  
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC, and solid vertical 
+lines correspond to landfalls. 
+=== PAGE 44 ===
+Hurricane Ian     44 
+ 
+ 
+Figure 4. 
+Tail Doppler Radar wind speeds (shaded, kt) and vertical motion (black contour, m/s) along the flight track of the NOAA P-3 in 
+Hurricane Ian on 28 September 2022.  Courtesy of Michael Fischer and Paul Reasor, Hurricane Research Division. 
+ 
+ 
+=== PAGE 45 ===
+Hurricane Ian     45 
+ 
+ 
+Figure 5. 
+Selected sustained surface or near-surface wind observations associated with Hurricane Ian, 23‒30 September 2022.  Courtesy 
+of Matt Onderlinde. 
+=== PAGE 46 ===
+Hurricane Ian     46 
+ 
+ 
+Figure 6. 
+Analyzed storm surge inundation (feet above ground level) along the coasts of Florida, 
+Georgia, South Carolina, and North Carolina from Hurricane Ian. 
+=== PAGE 47 ===
+Hurricane Ian     47 
+ 
+ 
+Figure 7. 
+Maximum water levels (ft above MHHW) during Hurricane Ian measured by NOS tide 
+gauge network and the maximum extent of the storm surge watches (lavender) and 
+warnings (magenta). Ian’s track is overlaid (black line). 
+ 
+=== PAGE 48 ===
+Hurricane Ian     48 
+ 
+ 
+ 
+Figure 8.  
+Maximum wave filtered water level measurements (ft above MHHW or NAVD88) from 
+USGS water level sensors deployed along the west coast of Florida. NHC uses MHHW 
+(displayed as squares) as an approximation for inundation at USGS sensors when a valid 
+conversion from NAVD88 can be made using the NOAA VDatum tool. Sensors outside 
+the valid conversion are given in NAVD88 (displayed as stars). 
+=== PAGE 49 ===
+Hurricane Ian     49 
+ 
+(a)
+         (b)
+ 
+ 
+Figure 9.  
+(a) USGS and (b) NWS high water marks collected in Southwest Florida estimating the storm surge impacts during Hurricane 
+Ian. USGS surveyed a wider area including inland impacts, and estimated the water level above ground level (AGL). NWS 
+heavily surveyed coastal areas for peak impacts, and estimated the water level above the high tide line (MHHW).   
+=== PAGE 50 ===
+Hurricane Ian     50 
+ 
+ 
+Figure 10.  
+Unfiltered water level (gray) and wave-filtered water level (red) (ft above MHHW) measured during Hurricane Ian from a USGS sensor 
+located in Fort Myers Beach. Vertical black lines (labeled as a to e) represent the still image times from Max Olson’s remote camera 
+in Figure 11. 
+=== PAGE 51 ===
+Hurricane Ian     51 
+ 
+ 
+ 
+Figure 11. 
+Series of still images and the approximate local times from a remote camera that recoded a timelapse video of storm surge inundation 
+and destruction in Fort Myers Beach. Credit: Max Olson. 
+=== PAGE 52 ===
+Hurricane Ian     52 
+ 
+(a) 
+   (b) 
+  
+ 
+Figure 12. 
+(a) Storm surge high water mark in bathroom cabinet on the second-story of a beachfront structure in Fort Myers Beach. (b) 
+NWS survey team extrapolating the high water mark to the outside of the home to survey its elevation of approximately 12 ft 
+above the brick foundation and 15 ft above MHHW. Images courtesy of the NWS.
+=== PAGE 53 ===
+Hurricane Ian     53 
+ 
+(a) 
+ (b) 
+ 
+ 
+ 
+Figure 13.  
+Before (a) and after (b) imagery of a portion of the Sanibel Causeway, showing the damage caused by Hurricane Ian. Imagery 
+courtesy of the NOAA Remote Sensing Division at https://storms.ngs.noaa.gov/storms/ian/index.html#17/26.47970/-82.02219  
+=== PAGE 54 ===
+Hurricane Ian     54 
+ 
+ 
+Figure 14. 
+Analysis of storm total rainfall (inches) for Hurricane Ian courtesy of David Roth of the 
+NOAA Weather Prediction Center.
+=== PAGE 55 ===
+Hurricane Ian     55 
+ 
+(a)
+  
+(b)
+ 
+©
+ 
+Figure 15. 
+USGS River Gauges measurements (ft) between 28 September‒12 October 2022 at (a) 
+Peace River at SR 70 at Arcadia, Florida, (b) Horse Creek at SR 72 near Arcadia, and (c) 
+the Myakka River near SR 72 near Sarasota, Florida. 
+=== PAGE 56 ===
+Hurricane Ian     56 
+ 
+ 
+ 
+Figure 16. 
+Locations of deaths directly (top) and indirectly (bottom) caused by Hurricane Ian, 23‒30 
+September 2022.  
+=== PAGE 57 ===
+Hurricane Ian     57 
+ 
+ 
+Figure 17. 
+Age distribution of fatalities (both direct and indirect) in the United States during Hurricane Ian, 23‒30 September. 
+=== PAGE 58 ===
+Hurricane Ian     58 
+ 
+   
+ 
+ 
+Figure 18. 
+Destruction caused by Hurricane Ian in Fort Myers Beach, Florida.  
+ 
+ 
+ 
+=== PAGE 59 ===
+Hurricane Ian     59 
+ 
+  
+ 
+       
+             
+ 
+Figure 19.  
+Images showing the freshwater flooding from Ian. [Top left] Rescue workers in Orlando, Florida, on Thursday, 29 September. 
+Credit: Phelan M. Ebenhack/EBENP, via Associated Press.  [Top right] Screen capture from drone footage in Daytona Beach, 
+Florida. Credit: Daytona Beach Police Department. [Bottom left] Flooded buildings in Good Samaritan Society, Kissimmee, 
+Florida. Credit: US Representative Darren Soto [Bottom right] Flooding from the Peace River washes out the road along NW 
+Brownville Street in Brownville, outside of Arcadia, Friday. Credit: Luis Santana, Tampa Bay Times  
+=== PAGE 60 ===
+Hurricane Ian     60 
+ 
+   
+ 
+Figure 20. 
+Power outage map for 2100 UTC 29 September (left) and 2300 UTC 30 September (right). Photo credit: PowerOutage.us 
+ 
+ 
+=== PAGE 61 ===
+Hurricane Ian     61 
+ 
+ 
+ 
+ 
+ 
+Figure 21. 
+Storm surge inundation in historic Georgetown, South Carolina, between 2:35 and 2:50 pm EDT 30 September. Photo credit: 
+Josh Morgerman, iCyclone. 
+ 
+=== PAGE 62 ===
+Hurricane Ian     62 
+ 
+ 
+Figure 22. 
+Gap-filled Landsat-7 image taken 2 October 2022 of the southwestern coast of Florida in 
+the Fort Myers area.  Photo credit: Michelle Bouchard using Landsat data from the U.S. 
+Geological Survey 
+=== PAGE 63 ===
+Hurricane Ian     63 
+ 
+ 
+Figure 23. 
+5-day Tropical Weather Outlook genesis areas associated with the disturbance that developed into Hurricane Ian for (a) all 
+probability areas (10–100%, multi-color shading), (b) low probability areas (< 40%, yellow shading), (c) medium probability 
+areas (40–60%, orange shading), and (d) high probability areas (> 60%, red shading). The black star in each panel indicates 
+the genesis location of Ian. Hit rate indicates the percentage of outlook areas where the genesis location was captured within.              
+=== PAGE 64 ===
+Hurricane Ian     64 
+ 
+ 
+Figure 24. 
+Track forecast error (n mi) of the official forecasts and selected models for Hurricane Ian, 23‒30 September 2022.   
+=== PAGE 65 ===
+Hurricane Ian     65 
+ 
+ 
+Figure 25. 
+Track forecast skill of the official forecasts and selected models for Hurricane Ian, 23‒30 September 2022.   
+=== PAGE 66 ===
+Hurricane Ian     66 
+ 
+ 
+Figure 26.  
+Selected official track forecasts between 00 UTC 25 September and 18 UTC 27 September (dashed lines, with 0, 12, 24, 36, 
+48, 60, 72, 96, and 120 h positions indicated) for Hurricane Ian, 23‒30 September 2022.  The best track is given by the thick 
+solid black line with positions given by red symbols at 6-h intervals.  
+=== PAGE 67 ===
+Hurricane Ian     67 
+ 
+ 
+Figure 27.  
+Select official NHC forecast track cones (light shaded blue) from 00 UTC 26 September through 06 UTC 28 September 
+(advisories 12 through 22) with the best track (solid blue line) and Cayo Costa, Florida landfall location (red dot). 
+=== PAGE 68 ===
+Hurricane Ian     68 
+ 
+ 
+Figure 28. 
+Intensity forecast error (kt) of the official forecasts and selected models for Hurricane Ian, 23‒30 September 2022.   
+=== PAGE 69 ===
+Hurricane Ian     69 
+ 
+ 
+Figure 29. 
+Intensity forecast skill of the official forecasts and selected models for Hurricane Ian, 23‒30 September 2022.   
+=== PAGE 70 ===
+Hurricane Ian     70 
+ 
+ 
+Figure 30.  
+Selected official intensity forecasts between 00 UTC 25 September and 00 UTC 27 September (dashed lines, with 0, 12, 24, 
+36, 48, 60, 72, 96, and 120 h intensities indicated) for Hurricane Ian, 23‒30 September 2022.  The best track is given by the 
+white solid line with intensities given at 6-h intervals.  
+ 
+ 
+ 
+ 
+ 
+=== PAGE 71 ===
+Hurricane Ian     71 
+ 
+ 
+Figure 31.  
+Timeline of NHC storm surge forecasts for Hurricane Ian compared with verifying onset time of tropical-storm-force winds, 
+landfall, and the wave-filtered maximum water level measurement from the USGS sensor at Fort Myers Beach (shown as a 
+star). 
+ 
+ 
+=== PAGE 72 ===
+Hurricane Ian     72 
+ 
+ 
+ADDITIONAL NWS RESOURCES 
+ 
+Note that the storm overviews in these reports were generated using the preliminary Best Track data for Hurricane Ian. 
+ 
+https://storymaps.arcgis.com/stories/2d5269a0866d436fb70677b0a3c1de3a (Tampa Bay WFO) 
+ 
+https://storymaps.arcgis.com/stories/4a242bae868140a394c96bc2d9415e86 (Melbourne WFO) 
+ 
+https://noaa.maps.arcgis.com/apps/MapSeries/index.html?appid=ec1990ce72d444b99e58d1553f7775b1 (Miami WFO) 
+https://storymaps.arcgis.com/stories/bd0750c3c312476ba9c8c59eb7cb3cce (Charleston WFO) 
+https://www.weather.gov/ilm/hurricaneian (Wilmington WFO) 
+ 
+ 

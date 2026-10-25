@@ -1,0 +1,208 @@
+{
+  "tool": "analyze_flooding",
+  "station": "8725520",
+  "window": "2022-09-27 00:00 to 2022-09-30 23:54",
+  "datum": "MHHW",
+  "time_zone": "LST/LDT (local clock time; EDT, UTC-4, on these dates)",
+  "units": "english",
+  "value_label": "ft above MHHW",
+  "source_urls": {
+    "observed": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=water_level&application=cgn6905_hw2_agent&begin_date=20220927&end_date=20220930&datum=MHHW&station=8725520&time_zone=lst_ldt&units=english&format=json",
+    "predicted": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=predictions&application=cgn6905_hw2_agent&begin_date=20220927&end_date=20220930&datum=MHHW&station=8725520&time_zone=lst_ldt&units=english&format=json&interval=6"
+  },
+  "completeness": {
+    "n_expected_6min_timestamps": 960,
+    "n_observed_present": 960,
+    "n_observed_missing": 0,
+    "missing_observed_runs": [],
+    "n_predicted_present": 960,
+    "n_predicted_missing": 0,
+    "n_matched_timestamps": 960,
+    "rows_off_the_6min_grid_ignored": 0,
+    "interpolation": "none; residuals use only timestamps present in both series"
+  },
+  "data_quality": {
+    "n_verified": 960,
+    "n_preliminary": 0,
+    "n_rows_with_any_quality_flag": 0,
+    "n_duplicate_timestamps_dropped": 0,
+    "sigma_at_peak_sample": 0.217,
+    "median_sigma_all_samples": 0.036,
+    "note_sigma": "sigma is the spread of the 1-second readings inside each 6-minute sample (wave and turbulence noise)"
+  },
+  "peak_observed": {
+    "value": 7.257,
+    "time": "2022-09-28 18:30",
+    "time_utc": "2022-09-28 22:30",
+    "predicted_tide_at_that_time": 0.01,
+    "residual_at_that_time": 7.247
+  },
+  "max_residual": {
+    "value": 7.249,
+    "time": "2022-09-28 18:18",
+    "time_utc": "2022-09-28 22:18",
+    "observed_at_that_time": 7.251,
+    "predicted_at_that_time": 0.002
+  },
+  "most_negative_residual": {
+    "value": -1.441,
+    "time": "2022-09-28 05:18",
+    "observed_at_that_time": -1.079,
+    "predicted_at_that_time": 0.362
+  },
+  "lowest_observed": {
+    "value": -1.096,
+    "time": "2022-09-28 09:00"
+  },
+  "highest_predicted": {
+    "value": 0.5,
+    "time": "2022-09-30 06:18"
+  },
+  "residual_stats": {
+    "mean": 1.389,
+    "std": 1.967,
+    "n": 960
+  },
+  "observed_vs_predicted_by_day": [
+    {
+      "date": "2022-09-27",
+      "obs_max": 1.227,
+      "obs_max_time": "2022-09-27 04:06",
+      "pred_max": 0.255,
+      "pred_max_time": "2022-09-27 04:48",
+      "max_residual": 1.093,
+      "max_residual_time": "2022-09-27 01:24",
+      "obs_missing": 0
+    },
+    {
+      "date": "2022-09-28",
+      "obs_max": 7.257,
+      "obs_max_time": "2022-09-28 18:30",
+      "pred_max": 0.362,
+      "pred_max_time": "2022-09-28 05:12",
+      "max_residual": 7.249,
+      "max_residual_time": "2022-09-28 18:18",
+      "obs_missing": 0
+    },
+    {
+      "date": "2022-09-29",
+      "obs_max": 4.856,
+      "obs_max_time": "2022-09-29 00:00",
+      "pred_max": 0.452,
+      "pred_max_time": "2022-09-29 05:48",
+      "max_residual": 5.396,
+      "max_residual_time": "2022-09-29 00:00",
+      "obs_missing": 0
+    },
+    {
+      "date": "2022-09-30",
+      "obs_max": 0.886,
+      "obs_max_time": "2022-09-30 06:12",
+      "pred_max": 0.5,
+      "pred_max_time": "2022-09-30 06:18",
+      "max_residual": 0.963,
+      "max_residual_time": "2022-09-30 20:36",
+      "obs_missing": 0
+    }
+  ],
+  "peak_in_other_datums": {
+    "ft_above_MHHW": 7.26,
+    "ft_above_NAVD88": 7.54,
+    "note": "converted with the datum heights from the CO-OPS datums resource (each rounded to 0.01 ft)"
+  },
+  "thresholds_used": {
+    "datum": "MHHW",
+    "units": "english",
+    "values": {
+      "nws": {
+        "minor": 2.0,
+        "moderate": 3.5,
+        "major": 5.0
+      },
+      "nos": {
+        "minor": 1.69,
+        "moderate": 2.66,
+        "major": 3.89
+      }
+    },
+    "note": "current NOAA thresholds applied retrospectively to a 2022 event"
+  },
+  "exceedance": {
+    "nws": {
+      "minor": {
+        "threshold": 2.0,
+        "exceeded": true,
+        "n_samples_above": 203,
+        "hours_above": 20.3,
+        "first_time_above": "2022-09-28 14:18",
+        "last_time_above": "2022-09-29 10:30",
+        "n_separate_spells": 1,
+        "longest_spell_hours": 20.3,
+        "peak_minus_threshold": 5.257
+      },
+      "moderate": {
+        "threshold": 3.5,
+        "exceeded": true,
+        "n_samples_above": 137,
+        "hours_above": 13.7,
+        "first_time_above": "2022-09-28 15:12",
+        "last_time_above": "2022-09-29 04:48",
+        "n_separate_spells": 1,
+        "longest_spell_hours": 13.7,
+        "peak_minus_threshold": 3.757
+      },
+      "major": {
+        "threshold": 5.0,
+        "exceeded": true,
+        "n_samples_above": 75,
+        "hours_above": 7.5,
+        "first_time_above": "2022-09-28 16:12",
+        "last_time_above": "2022-09-28 23:36",
+        "n_separate_spells": 1,
+        "longest_spell_hours": 7.5,
+        "peak_minus_threshold": 2.257
+      }
+    },
+    "nos": {
+      "minor": {
+        "threshold": 1.69,
+        "exceeded": true,
+        "n_samples_above": 219,
+        "hours_above": 21.9,
+        "first_time_above": "2022-09-28 14:00",
+        "last_time_above": "2022-09-29 11:48",
+        "n_separate_spells": 1,
+        "longest_spell_hours": 21.9,
+        "peak_minus_threshold": 5.567
+      },
+      "moderate": {
+        "threshold": 2.66,
+        "exceeded": true,
+        "n_samples_above": 172,
+        "hours_above": 17.2,
+        "first_time_above": "2022-09-28 14:48",
+        "last_time_above": "2022-09-29 07:54",
+        "n_separate_spells": 1,
+        "longest_spell_hours": 17.2,
+        "peak_minus_threshold": 4.597
+      },
+      "major": {
+        "threshold": 3.89,
+        "exceeded": true,
+        "n_samples_above": 118,
+        "hours_above": 11.8,
+        "first_time_above": "2022-09-28 15:30",
+        "last_time_above": "2022-09-29 03:12",
+        "n_separate_spells": 1,
+        "longest_spell_hours": 11.8,
+        "peak_minus_threshold": 3.367
+      }
+    }
+  },
+  "highest_category_reached": {
+    "nws": "major",
+    "nos": "major"
+  },
+  "duration_method": "each 6-minute observation above a threshold counts as 6 minutes; no interpolation; if samples are missing the hours are a lower bound",
+  "summary": "Peak observed 7.257 ft above MHHW at 2022-09-28 18:30 LST/LDT (local clock time; EDT, UTC-4, on these dates); max residual 7.249 ft at 2022-09-28 18:18; 0 of 960 observed timestamps missing; highest NWS category reached: major, NOS: major."
+}

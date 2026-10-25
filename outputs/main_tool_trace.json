@@ -1,0 +1,1043 @@
+[
+ {
+  "step": 1,
+  "tool": "fetch_water_levels",
+  "input": {
+   "station": "8725520",
+   "begin": "20220927",
+   "end": "20220930",
+   "datum": "MHHW",
+   "time_zone": "lst_ldt",
+   "units": "english"
+  },
+  "is_error": false,
+  "result": {
+   "tool": "fetch_water_levels",
+   "request_url": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=water_level&application=cgn6905_hw2_agent&begin_date=20220927&end_date=20220930&datum=MHHW&station=8725520&time_zone=lst_ldt&units=english&format=json",
+   "from_cache": false,
+   "station": {
+    "id": "8725520",
+    "name": "Fort Myers",
+    "lat": "26.6478",
+    "lon": "-81.8711"
+   },
+   "parameters": {
+    "begin": "20220927",
+    "end": "20220930",
+    "datum": "MHHW",
+    "time_zone": "LST/LDT (local clock time; EDT, UTC-4, on these dates)",
+    "units": "english"
+   },
+   "n_rows_returned": 960,
+   "n_expected_6min_timestamps": 960,
+   "n_missing_timestamps": 0,
+   "first_time": "2022-09-27 00:00",
+   "last_time": "2022-09-30 23:54",
+   "min_ft_above_MHHW": {
+    "value": -1.096,
+    "time": "2022-09-28 09:00"
+   },
+   "max_ft_above_MHHW": {
+    "value": 7.257,
+    "time": "2022-09-28 18:30"
+   },
+   "first_3_rows": [
+    {
+     "t": "2022-09-27 00:00",
+     "v": 0.322
+    },
+    {
+     "t": "2022-09-27 00:06",
+     "v": 0.361
+    },
+    {
+     "t": "2022-09-27 00:12",
+     "v": 0.407
+    }
+   ],
+   "last_3_rows": [
+    {
+     "t": "2022-09-30 23:42",
+     "v": 0.295
+    },
+    {
+     "t": "2022-09-30 23:48",
+     "v": 0.282
+    },
+    {
+     "t": "2022-09-30 23:54",
+     "v": 0.276
+    }
+   ],
+   "n_verified": 960,
+   "n_preliminary": 0,
+   "n_rows_with_any_quality_flag": 0,
+   "n_null_values": 0,
+   "summary": "960 rows from 2022-09-27 00:00 to 2022-09-30 23:54 (LST/LDT (local clock time; EDT, UTC-4, on these dates)), 0 of 960 expected 6-minute timestamps missing, datum MHHW, units ft. Cache miss (downloaded now)."
+  }
+ },
+ {
+  "step": 1,
+  "tool": "fetch_tide_predictions",
+  "input": {
+   "station": "8725520",
+   "begin": "20220927",
+   "end": "20220930",
+   "datum": "MHHW",
+   "time_zone": "lst_ldt",
+   "units": "english"
+  },
+  "is_error": false,
+  "result": {
+   "tool": "fetch_tide_predictions",
+   "request_url": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=predictions&application=cgn6905_hw2_agent&begin_date=20220927&end_date=20220930&datum=MHHW&station=8725520&time_zone=lst_ldt&units=english&format=json&interval=6",
+   "from_cache": false,
+   "station": {
+    "id": "8725520",
+    "name": null,
+    "lat": null,
+    "lon": null
+   },
+   "parameters": {
+    "begin": "20220927",
+    "end": "20220930",
+    "datum": "MHHW",
+    "time_zone": "LST/LDT (local clock time; EDT, UTC-4, on these dates)",
+    "units": "english"
+   },
+   "n_rows_returned": 960,
+   "n_expected_6min_timestamps": 960,
+   "n_missing_timestamps": 0,
+   "first_time": "2022-09-27 00:00",
+   "last_time": "2022-09-30 23:54",
+   "min_ft_above_MHHW": {
+    "value": -0.897,
+    "time": "2022-09-30 14:42"
+   },
+   "max_ft_above_MHHW": {
+    "value": 0.5,
+    "time": "2022-09-30 06:18"
+   },
+   "first_3_rows": [
+    {
+     "t": "2022-09-27 00:00",
+     "v": -0.585
+    },
+    {
+     "t": "2022-09-27 00:06",
+     "v": -0.576
+    },
+    {
+     "t": "2022-09-27 00:12",
+     "v": -0.566
+    }
+   ],
+   "last_3_rows": [
+    {
+     "t": "2022-09-30 23:42",
+     "v": -0.44
+    },
+    {
+     "t": "2022-09-30 23:48",
+     "v": -0.445
+    },
+    {
+     "t": "2022-09-30 23:54",
+     "v": -0.449
+    }
+   ],
+   "summary": "960 rows from 2022-09-27 00:00 to 2022-09-30 23:54 (LST/LDT (local clock time; EDT, UTC-4, on these dates)), 0 of 960 expected 6-minute timestamps missing, datum MHHW, units ft. Cache miss (downloaded now)."
+  }
+ },
+ {
+  "step": 1,
+  "tool": "fetch_flood_thresholds",
+  "input": {
+   "station": "8725520",
+   "units": "english"
+  },
+  "is_error": false,
+  "result": {
+   "tool": "fetch_flood_thresholds",
+   "request_urls": [
+    "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8725520/floodlevels.json?units=english",
+    "https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations/8725520/datums.json?units=english"
+   ],
+   "from_cache": false,
+   "station": "8725520",
+   "units": "english",
+   "published_values_ft_above_station_datum": {
+    "nos_minor": 7.37,
+    "nos_moderate": 8.34,
+    "nos_major": 9.57,
+    "nws_minor": 7.68,
+    "nws_moderate": 9.18,
+    "nws_major": 10.68,
+    "action": null
+   },
+   "datum_heights_ft_above_station_datum": {
+    "MHHW": 5.68,
+    "MLLW": 4.36,
+    "NAVD88": 5.4
+   },
+   "datum_epoch": "1983-2001",
+   "datum_accepted": "Apr 17 2003",
+   "thresholds_ft_above_MHHW": {
+    "nws": {
+     "minor": 2.0,
+     "moderate": 3.5,
+     "major": 5.0
+    },
+    "nos": {
+     "minor": 1.69,
+     "moderate": 2.66,
+     "major": 3.89
+    }
+   },
+   "thresholds_ft_above_MLLW": {
+    "nws": {
+     "minor": 3.32,
+     "moderate": 4.82,
+     "major": 6.32
+    },
+    "nos": {
+     "minor": 3.01,
+     "moderate": 3.98,
+     "major": 5.21
+    }
+   },
+   "thresholds_ft_above_NAVD88": {
+    "nws": {
+     "minor": 2.28,
+     "moderate": 3.78,
+     "major": 5.28
+    },
+    "nos": {
+     "minor": 1.97,
+     "moderate": 2.94,
+     "major": 4.17
+    }
+   },
+   "definitions": {
+    "nws": "NWS minor/moderate/major coastal flood thresholds: water levels set by the local NWS forecast office with local emergency managers, based on years of impact monitoring (road closures, flooding of low areas). Minor: low threat of property damage and no direct threat to life. Moderate: elevated threat of property damage and some risk to life. Major: significant threat to life and property.",
+    "nos": "NOS minor/moderate/major thresholds: derived by NOAA NOS CO-OPS with one consistent method for all stations (NOAA Technical Report NOS CO-OPS 086, Patterns and Projections of High Tide Flooding), so that stations can be compared. They are not tied to local road or building impacts.",
+    "source": "NOAA CO-OPS Metadata API floodlevels and datums resources; descriptions from the NOAA Coastal Inundation Dashboard FAQ at https://tidesandcurrents.noaa.gov/inundationdb/"
+   },
+   "reference_datum_note": "The metadata API does not state the datum of the published values. The Coastal Inundation Dashboard script (https://tidesandcurrents.noaa.gov/inundationdb/assets/js/app.js) subtracts the plotted datum's height above station datum from them, so I treat them as heights above station datum and subtract the MHHW height to get feet above MHHW. Cross-check: the NWS values minus MHHW come out as round numbers (see thresholds above MHHW).",
+   "retrospective_note": "These are the thresholds NOAA publishes now (retrieved 2026-10-25). Applying them to the September 2022 event is a retrospective use, because the values or datums in force in 2022 may have differed.",
+   "summary": "NWS thresholds above MHHW (ft): minor 2.0, moderate 3.5, major 5.0. NOS thresholds above MHHW: minor 1.69, moderate 2.66, major 3.89. Published as heights above station datum, MHHW = 5.68 ft above station datum."
+  }
+ },
+ {
+  "step": 2,
+  "tool": "analyze_flooding",
+  "input": {
+   "station": "8725520",
+   "begin": "20220927",
+   "end": "20220930",
+   "datum": "MHHW",
+   "time_zone": "lst_ldt",
+   "units": "english"
+  },
+  "is_error": false,
+  "result": {
+   "tool": "analyze_flooding",
+   "station": "8725520",
+   "window": "2022-09-27 00:00 to 2022-09-30 23:54",
+   "datum": "MHHW",
+   "time_zone": "LST/LDT (local clock time; EDT, UTC-4, on these dates)",
+   "units": "english",
+   "value_label": "ft above MHHW",
+   "source_urls": {
+    "observed": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=water_level&application=cgn6905_hw2_agent&begin_date=20220927&end_date=20220930&datum=MHHW&station=8725520&time_zone=lst_ldt&units=english&format=json",
+    "predicted": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=predictions&application=cgn6905_hw2_agent&begin_date=20220927&end_date=20220930&datum=MHHW&station=8725520&time_zone=lst_ldt&units=english&format=json&interval=6"
+   },
+   "completeness": {
+    "n_expected_6min_timestamps": 960,
+    "n_observed_present": 960,
+    "n_observed_missing": 0,
+    "missing_observed_runs": [],
+    "n_predicted_present": 960,
+    "n_predicted_missing": 0,
+    "n_matched_timestamps": 960,
+    "rows_off_the_6min_grid_ignored": 0,
+    "interpolation": "none; residuals use only timestamps present in both series"
+   },
+   "data_quality": {
+    "n_verified": 960,
+    "n_preliminary": 0,
+    "n_rows_with_any_quality_flag": 0,
+    "n_duplicate_timestamps_dropped": 0,
+    "sigma_at_peak_sample": 0.217,
+    "median_sigma_all_samples": 0.036,
+    "note_sigma": "sigma is the spread of the 1-second readings inside each 6-minute sample (wave and turbulence noise)"
+   },
+   "peak_observed": {
+    "value": 7.257,
+    "time": "2022-09-28 18:30",
+    "time_utc": "2022-09-28 22:30",
+    "predicted_tide_at_that_time": 0.01,
+    "residual_at_that_time": 7.247
+   },
+   "max_residual": {
+    "value": 7.249,
+    "time": "2022-09-28 18:18",
+    "time_utc": "2022-09-28 22:18",
+    "observed_at_that_time": 7.251,
+    "predicted_at_that_time": 0.002
+   },
+   "most_negative_residual": {
+    "value": -1.441,
+    "time": "2022-09-28 05:18",
+    "observed_at_that_time": -1.079,
+    "predicted_at_that_time": 0.362
+   },
+   "lowest_observed": {
+    "value": -1.096,
+    "time": "2022-09-28 09:00"
+   },
+   "highest_predicted": {
+    "value": 0.5,
+    "time": "2022-09-30 06:18"
+   },
+   "residual_stats": {
+    "mean": 1.389,
+    "std": 1.967,
+    "n": 960
+   },
+   "observed_vs_predicted_by_day": [
+    {
+     "date": "2022-09-27",
+     "obs_max": 1.227,
+     "obs_max_time": "2022-09-27 04:06",
+     "pred_max": 0.255,
+     "pred_max_time": "2022-09-27 04:48",
+     "max_residual": 1.093,
+     "max_residual_time": "2022-09-27 01:24",
+     "obs_missing": 0
+    },
+    {
+     "date": "2022-09-28",
+     "obs_max": 7.257,
+     "obs_max_time": "2022-09-28 18:30",
+     "pred_max": 0.362,
+     "pred_max_time": "2022-09-28 05:12",
+     "max_residual": 7.249,
+     "max_residual_time": "2022-09-28 18:18",
+     "obs_missing": 0
+    },
+    {
+     "date": "2022-09-29",
+     "obs_max": 4.856,
+     "obs_max_time": "2022-09-29 00:00",
+     "pred_max": 0.452,
+     "pred_max_time": "2022-09-29 05:48",
+     "max_residual": 5.396,
+     "max_residual_time": "2022-09-29 00:00",
+     "obs_missing": 0
+    },
+    {
+     "date": "2022-09-30",
+     "obs_max": 0.886,
+     "obs_max_time": "2022-09-30 06:12",
+     "pred_max": 0.5,
+     "pred_max_time": "2022-09-30 06:18",
+     "max_residual": 0.963,
+     "max_residual_time": "2022-09-30 20:36",
+     "obs_missing": 0
+    }
+   ],
+   "peak_in_other_datums": {
+    "ft_above_MHHW": 7.26,
+    "ft_above_NAVD88": 7.54,
+    "note": "converted with the datum heights from the CO-OPS datums resource (each rounded to 0.01 ft)"
+   },
+   "thresholds_used": {
+    "datum": "MHHW",
+    "units": "english",
+    "values": {
+     "nws": {
+      "minor": 2.0,
+      "moderate": 3.5,
+      "major": 5.0
+     },
+     "nos": {
+      "minor": 1.69,
+      "moderate": 2.66,
+      "major": 3.89
+     }
+    },
+    "note": "current NOAA thresholds applied retrospectively to a 2022 event"
+   },
+   "exceedance": {
+    "nws": {
+     "minor": {
+      "threshold": 2.0,
+      "exceeded": true,
+      "n_samples_above": 203,
+      "hours_above": 20.3,
+      "first_time_above": "2022-09-28 14:18",
+      "last_time_above": "2022-09-29 10:30",
+      "n_separate_spells": 1,
+      "longest_spell_hours": 20.3,
+      "peak_minus_threshold": 5.257
+     },
+     "moderate": {
+      "threshold": 3.5,
+      "exceeded": true,
+      "n_samples_above": 137,
+      "hours_above": 13.7,
+      "first_time_above": "2022-09-28 15:12",
+      "last_time_above": "2022-09-29 04:48",
+      "n_separate_spells": 1,
+      "longest_spell_hours": 13.7,
+      "peak_minus_threshold": 3.757
+     },
+     "major": {
+      "threshold": 5.0,
+      "exceeded": true,
+      "n_samples_above": 75,
+      "hours_above": 7.5,
+      "first_time_above": "2022-09-28 16:12",
+      "last_time_above": "2022-09-28 23:36",
+      "n_separate_spells": 1,
+      "longest_spell_hours": 7.5,
+      "peak_minus_threshold": 2.257
+     }
+    },
+    "nos": {
+     "minor": {
+      "threshold": 1.69,
+      "exceeded": true,
+      "n_samples_above": 219,
+      "hours_above": 21.9,
+      "first_time_above": "2022-09-28 14:00",
+      "last_time_above": "2022-09-29 11:48",
+      "n_separate_spells": 1,
+      "longest_spell_hours": 21.9,
+      "peak_minus_threshold": 5.567
+     },
+     "moderate": {
+      "threshold": 2.66,
+      "exceeded": true,
+      "n_samples_above": 172,
+      "hours_above": 17.2,
+      "first_time_above": "2022-09-28 14:48",
+      "last_time_above": "2022-09-29 07:54",
+      "n_separate_spells": 1,
+      "longest_spell_hours": 17.2,
+      "peak_minus_threshold": 4.597
+     },
+     "major": {
+      "threshold": 3.89,
+      "exceeded": true,
+      "n_samples_above": 118,
+      "hours_above": 11.8,
+      "first_time_above": "2022-09-28 15:30",
+      "last_time_above": "2022-09-29 03:12",
+      "n_separate_spells": 1,
+      "longest_spell_hours": 11.8,
+      "peak_minus_threshold": 3.367
+     }
+    }
+   },
+   "highest_category_reached": {
+    "nws": "major",
+    "nos": "major"
+   },
+   "duration_method": "each 6-minute observation above a threshold counts as 6 minutes; no interpolation; if samples are missing the hours are a lower bound",
+   "summary": "Peak observed 7.257 ft above MHHW at 2022-09-28 18:30 LST/LDT (local clock time; EDT, UTC-4, on these dates); max residual 7.249 ft at 2022-09-28 18:18; 0 of 960 observed timestamps missing; highest NWS category reached: major, NOS: major.",
+   "saved_to": "outputs/analysis_8725520_20220927_20220930_MHHW.json"
+  }
+ },
+ {
+  "step": 2,
+  "tool": "fetch_usgs_high_water_marks",
+  "input": {
+   "area": "gauge_vicinity_5km",
+   "min_quality": "fair"
+  },
+  "is_error": false,
+  "result": {
+   "tool": "fetch_usgs_high_water_marks",
+   "request_urls": [
+    "https://api.waterdata.usgs.gov/stnservices/events/",
+    "https://api.waterdata.usgs.gov/stnservices/hwms/filteredhwms/?event=325&states=FL"
+   ],
+   "from_cache": false,
+   "source": "USGS Short-Term Network (STN) flood event data, high-water marks",
+   "event": {
+    "id": 325,
+    "name": "2022 Ian"
+   },
+   "area": {
+    "name": "gauge_vicinity_5km",
+    "definition": "marks within 5 km of the Fort Myers tide gauge (26.6478, -81.8711)"
+   },
+   "min_quality_kept": "fair",
+   "counts": {
+    "marks_in_FL_for_event": 360,
+    "marks_in_Lee County": 257,
+    "marks_in_area": 51,
+    "marks_used_after_quality_filter": 48
+   },
+   "elevation_ft_NAVD88": {
+    "n": 48,
+    "min": 6.5,
+    "p25": 7.17,
+    "median": 7.5,
+    "p75": 7.7,
+    "max": 8.5
+   },
+   "height_above_ground_ft": {
+    "n": 43,
+    "min": 0.1,
+    "p25": 1.08,
+    "median": 1.9,
+    "p75": 2.74,
+    "max": 4.43
+   },
+   "mark_types": {
+    "Seed line": 47,
+    "Mud": 1
+   },
+   "environment": {
+    "Coastal": 45,
+    "Riverine": 3
+   },
+   "highest_5_marks": [
+    {
+     "site_number": "FLLEE32948",
+     "lat": 26.659,
+     "lon": -81.85,
+     "elev_ft_NAVD88": 8.5,
+     "height_above_ground_ft": 2.0,
+     "quality": "Good",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32871",
+     "lat": 26.674,
+     "lon": -81.865,
+     "elev_ft_NAVD88": 8.2,
+     "height_above_ground_ft": 4.01,
+     "quality": "Excellent",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32863",
+     "lat": 26.638,
+     "lon": -81.879,
+     "elev_ft_NAVD88": 8.0,
+     "height_above_ground_ft": 2.79,
+     "quality": "Excellent",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32900",
+     "lat": 26.684,
+     "lon": -81.855,
+     "elev_ft_NAVD88": 7.9,
+     "height_above_ground_ft": 1.53,
+     "quality": "Good",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32861",
+     "lat": 26.637,
+     "lon": -81.88,
+     "elev_ft_NAVD88": 7.9,
+     "height_above_ground_ft": 2.69,
+     "quality": "Excellent",
+     "type": "Seed line"
+    }
+   ],
+   "field_meanings": {
+    "elev_ft_NAVD88": "surveyed elevation of the mark, the peak local water-surface elevation, feet above NAVD88",
+    "height_above_ground_ft": "height of the mark above the ground at that structure or site, so the local depth of water above ground at the mark",
+    "caution": "a mark is one surveyed peak at one place. Seed lines and mud lines can include wave effects. Marks are not a time series and are not comparable to gauge data without a datum conversion."
+   },
+   "comparison_with_fort_myers_gauge": {
+    "gauge_peak_ft_above_NAVD88": 7.54,
+    "gauge_peak_conversion": "converted with the datum heights from the CO-OPS datums resource (each rounded to 0.01 ft)",
+    "n_marks_higher_than_gauge_peak": 21,
+    "share_of_marks_higher_than_gauge_peak": 0.44,
+    "median_mark_minus_gauge_peak_ft": -0.04,
+    "max_mark_minus_gauge_peak_ft": 0.96
+   },
+   "saved_marks_table": "outputs/usgs_hwm_gauge_vicinity_5km.csv",
+   "summary": "48 marks used in area 'gauge_vicinity_5km': elevation median 7.5 ft NAVD88 (range 6.5 to 8.5); height above ground median 1.9 ft (n=43)."
+  }
+ },
+ {
+  "step": 2,
+  "tool": "fetch_usgs_high_water_marks",
+  "input": {
+   "area": "lee_county",
+   "min_quality": "fair"
+  },
+  "is_error": false,
+  "result": {
+   "tool": "fetch_usgs_high_water_marks",
+   "request_urls": [
+    "https://api.waterdata.usgs.gov/stnservices/events/",
+    "https://api.waterdata.usgs.gov/stnservices/hwms/filteredhwms/?event=325&states=FL"
+   ],
+   "from_cache": true,
+   "source": "USGS Short-Term Network (STN) flood event data, high-water marks",
+   "event": {
+    "id": 325,
+    "name": "2022 Ian"
+   },
+   "area": {
+    "name": "lee_county",
+    "definition": "all Lee County marks"
+   },
+   "min_quality_kept": "fair",
+   "counts": {
+    "marks_in_FL_for_event": 360,
+    "marks_in_Lee County": 257,
+    "marks_in_area": 257,
+    "marks_used_after_quality_filter": 251
+   },
+   "elevation_ft_NAVD88": {
+    "n": 251,
+    "min": 2.4,
+    "p25": 7.5,
+    "median": 9.1,
+    "p75": 11.2,
+    "max": 13.8
+   },
+   "height_above_ground_ft": {
+    "n": 243,
+    "min": 0.0,
+    "p25": 1.71,
+    "median": 3.08,
+    "p75": 5.6,
+    "max": 12.46
+   },
+   "mark_types": {
+    "Seed line": 242,
+    "Mud": 3,
+    "Debris": 3,
+    "Stain line": 2,
+    "Vegetation line": 1
+   },
+   "environment": {
+    "Coastal": 244,
+    "Riverine": 7
+   },
+   "highest_5_marks": [
+    {
+     "site_number": "FLLEE32992",
+     "lat": 26.443,
+     "lon": -81.929,
+     "elev_ft_NAVD88": 13.8,
+     "height_above_ground_ft": 9.8,
+     "quality": "Excellent",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE26290",
+     "lat": 26.423,
+     "lon": -82.08,
+     "elev_ft_NAVD88": 13.11,
+     "height_above_ground_ft": null,
+     "quality": "Good",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32973",
+     "lat": 26.439,
+     "lon": -82.04,
+     "elev_ft_NAVD88": 13.0,
+     "height_above_ground_ft": 7.55,
+     "quality": "Good",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE33052",
+     "lat": 26.427,
+     "lon": -82.068,
+     "elev_ft_NAVD88": 12.9,
+     "height_above_ground_ft": 7.44,
+     "quality": "Good",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32877",
+     "lat": 26.463,
+     "lon": -81.966,
+     "elev_ft_NAVD88": 12.8,
+     "height_above_ground_ft": 2.91,
+     "quality": "Excellent",
+     "type": "Seed line"
+    }
+   ],
+   "field_meanings": {
+    "elev_ft_NAVD88": "surveyed elevation of the mark, the peak local water-surface elevation, feet above NAVD88",
+    "height_above_ground_ft": "height of the mark above the ground at that structure or site, so the local depth of water above ground at the mark",
+    "caution": "a mark is one surveyed peak at one place. Seed lines and mud lines can include wave effects. Marks are not a time series and are not comparable to gauge data without a datum conversion."
+   },
+   "comparison_with_fort_myers_gauge": {
+    "gauge_peak_ft_above_NAVD88": 7.54,
+    "gauge_peak_conversion": "converted with the datum heights from the CO-OPS datums resource (each rounded to 0.01 ft)",
+    "n_marks_higher_than_gauge_peak": 186,
+    "share_of_marks_higher_than_gauge_peak": 0.74,
+    "median_mark_minus_gauge_peak_ft": 1.56,
+    "max_mark_minus_gauge_peak_ft": 6.26
+   },
+   "saved_marks_table": "outputs/usgs_hwm_lee_county.csv",
+   "summary": "251 marks used in area 'lee_county': elevation median 9.1 ft NAVD88 (range 2.4 to 13.8); height above ground median 3.08 ft (n=243)."
+  }
+ },
+ {
+  "step": 2,
+  "tool": "fetch_usgs_high_water_marks",
+  "input": {
+   "area": "fort_myers_beach",
+   "min_quality": "fair"
+  },
+  "is_error": false,
+  "result": {
+   "tool": "fetch_usgs_high_water_marks",
+   "request_urls": [
+    "https://api.waterdata.usgs.gov/stnservices/events/",
+    "https://api.waterdata.usgs.gov/stnservices/hwms/filteredhwms/?event=325&states=FL"
+   ],
+   "from_cache": true,
+   "source": "USGS Short-Term Network (STN) flood event data, high-water marks",
+   "event": {
+    "id": 325,
+    "name": "2022 Ian"
+   },
+   "area": {
+    "name": "fort_myers_beach",
+    "definition": "approximate box lat 26.38-26.47, lon -81.98 to -81.88 (Estero Island / Fort Myers Beach)"
+   },
+   "min_quality_kept": "fair",
+   "counts": {
+    "marks_in_FL_for_event": 360,
+    "marks_in_Lee County": 257,
+    "marks_in_area": 24,
+    "marks_used_after_quality_filter": 23
+   },
+   "elevation_ft_NAVD88": {
+    "n": 23,
+    "min": 11.6,
+    "p25": 11.9,
+    "median": 12.3,
+    "p75": 12.7,
+    "max": 13.8
+   },
+   "height_above_ground_ft": {
+    "n": 23,
+    "min": 0.23,
+    "p25": 5.75,
+    "median": 6.82,
+    "p75": 7.25,
+    "max": 12.46
+   },
+   "mark_types": {
+    "Seed line": 21,
+    "Mud": 2
+   },
+   "environment": {
+    "Coastal": 23
+   },
+   "highest_5_marks": [
+    {
+     "site_number": "FLLEE32992",
+     "lat": 26.443,
+     "lon": -81.929,
+     "elev_ft_NAVD88": 13.8,
+     "height_above_ground_ft": 9.8,
+     "quality": "Excellent",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32877",
+     "lat": 26.463,
+     "lon": -81.966,
+     "elev_ft_NAVD88": 12.8,
+     "height_above_ground_ft": 2.91,
+     "quality": "Excellent",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32902",
+     "lat": 26.457,
+     "lon": -81.959,
+     "elev_ft_NAVD88": 12.8,
+     "height_above_ground_ft": 9.43,
+     "quality": "Excellent",
+     "type": "Mud"
+    },
+    {
+     "site_number": "FLLEE32886",
+     "lat": 26.458,
+     "lon": -81.961,
+     "elev_ft_NAVD88": 12.7,
+     "height_above_ground_ft": 8.7,
+     "quality": "Excellent",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32994",
+     "lat": 26.44,
+     "lon": -81.922,
+     "elev_ft_NAVD88": 12.7,
+     "height_above_ground_ft": 7.25,
+     "quality": "Excellent",
+     "type": "Seed line"
+    }
+   ],
+   "field_meanings": {
+    "elev_ft_NAVD88": "surveyed elevation of the mark, the peak local water-surface elevation, feet above NAVD88",
+    "height_above_ground_ft": "height of the mark above the ground at that structure or site, so the local depth of water above ground at the mark",
+    "caution": "a mark is one surveyed peak at one place. Seed lines and mud lines can include wave effects. Marks are not a time series and are not comparable to gauge data without a datum conversion."
+   },
+   "comparison_with_fort_myers_gauge": {
+    "gauge_peak_ft_above_NAVD88": 7.54,
+    "gauge_peak_conversion": "converted with the datum heights from the CO-OPS datums resource (each rounded to 0.01 ft)",
+    "n_marks_higher_than_gauge_peak": 23,
+    "share_of_marks_higher_than_gauge_peak": 1.0,
+    "median_mark_minus_gauge_peak_ft": 4.76,
+    "max_mark_minus_gauge_peak_ft": 6.26
+   },
+   "saved_marks_table": "outputs/usgs_hwm_fort_myers_beach.csv",
+   "summary": "23 marks used in area 'fort_myers_beach': elevation median 12.3 ft NAVD88 (range 11.6 to 13.8); height above ground median 6.82 ft (n=23)."
+  }
+ },
+ {
+  "step": 2,
+  "tool": "fetch_usgs_high_water_marks",
+  "input": {
+   "area": "sanibel_captiva",
+   "min_quality": "fair"
+  },
+  "is_error": false,
+  "result": {
+   "tool": "fetch_usgs_high_water_marks",
+   "request_urls": [
+    "https://api.waterdata.usgs.gov/stnservices/events/",
+    "https://api.waterdata.usgs.gov/stnservices/hwms/filteredhwms/?event=325&states=FL"
+   ],
+   "from_cache": true,
+   "source": "USGS Short-Term Network (STN) flood event data, high-water marks",
+   "event": {
+    "id": 325,
+    "name": "2022 Ian"
+   },
+   "area": {
+    "name": "sanibel_captiva",
+    "definition": "approximate boxes: lat 26.38-26.475, lon -82.20 to -82.00 (Sanibel) plus lat 26.475-26.56, lon -82.26 to -82.15 (western Sanibel and Captiva)"
+   },
+   "min_quality_kept": "fair",
+   "counts": {
+    "marks_in_FL_for_event": 360,
+    "marks_in_Lee County": 257,
+    "marks_in_area": 56,
+    "marks_used_after_quality_filter": 56
+   },
+   "elevation_ft_NAVD88": {
+    "n": 56,
+    "min": 4.59,
+    "p25": 9.57,
+    "median": 11.1,
+    "p75": 12.22,
+    "max": 13.11
+   },
+   "height_above_ground_ft": {
+    "n": 53,
+    "min": 1.06,
+    "p25": 4.69,
+    "median": 6.3,
+    "p75": 7.47,
+    "max": 9.23
+   },
+   "mark_types": {
+    "Seed line": 55,
+    "Debris": 1
+   },
+   "environment": {
+    "Coastal": 56
+   },
+   "highest_5_marks": [
+    {
+     "site_number": "FLLEE26290",
+     "lat": 26.423,
+     "lon": -82.08,
+     "elev_ft_NAVD88": 13.11,
+     "height_above_ground_ft": null,
+     "quality": "Good",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32973",
+     "lat": 26.439,
+     "lon": -82.04,
+     "elev_ft_NAVD88": 13.0,
+     "height_above_ground_ft": 7.55,
+     "quality": "Good",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE33052",
+     "lat": 26.427,
+     "lon": -82.068,
+     "elev_ft_NAVD88": 12.9,
+     "height_above_ground_ft": 7.44,
+     "quality": "Good",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE26290",
+     "lat": 26.423,
+     "lon": -82.08,
+     "elev_ft_NAVD88": 12.73,
+     "height_above_ground_ft": null,
+     "quality": "Good",
+     "type": "Seed line"
+    },
+    {
+     "site_number": "FLLEE32986",
+     "lat": 26.428,
+     "lon": -82.101,
+     "elev_ft_NAVD88": 12.6,
+     "height_above_ground_ft": 1.06,
+     "quality": "Good",
+     "type": "Seed line"
+    }
+   ],
+   "field_meanings": {
+    "elev_ft_NAVD88": "surveyed elevation of the mark, the peak local water-surface elevation, feet above NAVD88",
+    "height_above_ground_ft": "height of the mark above the ground at that structure or site, so the local depth of water above ground at the mark",
+    "caution": "a mark is one surveyed peak at one place. Seed lines and mud lines can include wave effects. Marks are not a time series and are not comparable to gauge data without a datum conversion."
+   },
+   "comparison_with_fort_myers_gauge": {
+    "gauge_peak_ft_above_NAVD88": 7.54,
+    "gauge_peak_conversion": "converted with the datum heights from the CO-OPS datums resource (each rounded to 0.01 ft)",
+    "n_marks_higher_than_gauge_peak": 52,
+    "share_of_marks_higher_than_gauge_peak": 0.93,
+    "median_mark_minus_gauge_peak_ft": 3.56,
+    "max_mark_minus_gauge_peak_ft": 5.57
+   },
+   "saved_marks_table": "outputs/usgs_hwm_sanibel_captiva.csv",
+   "summary": "56 marks used in area 'sanibel_captiva': elevation median 11.1 ft NAVD88 (range 4.59 to 13.11); height above ground median 6.3 ft (n=53)."
+  }
+ },
+ {
+  "step": 3,
+  "tool": "fetch_document",
+  "input": {
+   "url": "https://www.nhc.noaa.gov/data/tcr/AL092022_Ian.pdf",
+   "keywords": [
+    "Fort Myers",
+    "storm surge",
+    "Lee County",
+    "Sanibel",
+    "Fort Myers Beach",
+    "Causeway",
+    "bridge"
+   ]
+  },
+  "is_error": false,
+  "result": {
+   "tool": "fetch_document",
+   "url": "https://www.nhc.noaa.gov/data/tcr/AL092022_Ian.pdf",
+   "from_cache": false,
+   "retrieved_utc": "2026-10-25",
+   "pages": 72,
+   "size_bytes": 7049210,
+   "sha256": "804d2a867917d4ab",
+   "keywords": [
+    "Fort Myers",
+    "storm surge",
+    "Lee County",
+    "Sanibel",
+    "Fort Myers Beach",
+    "Causeway",
+    "bridge"
+   ],
+   "n_snippets": 8,
+   "snippets": [
+    {
+     "keyword": "Fort Myers",
+     "page": 8,
+     "text": "and up to 5000 m (3.1 mi) inland in Guanimar. Minor-to-moderate coastal flooding also occurred on the northwest coast of Cuba. United States Ian produced a catastrophic storm surge along the southwest coast of Florida, impacting the barrier islands near Fort Myers, as well as rivers and bays such as the Caloosahatchee River, Estero Bay, the Imperial River, and Naples Bay. Peak storm surge inundation levels of 10 to 15 ft above ground level (AGL) occurred in Fort Myers Beach (Fig. 6). Ian made landfall in a region extremely vulnerable to storm surge, and the exact track, strong winds, and large storm size (e.g., 20 n mi RMW at landfall) contributed to the widespread devastating impacts. Ian also produced a significant storm surge on the northeast coast of Florida as it"
+    },
+    {
+     "keyword": "Fort Myers",
+     "page": 8,
+     "text": "it to create a final storm surge estimate. Figure 6 shows the NHC storm surge analysis, which represents the maximum inundation above ground level (AGL) during Hurricane Ian. SOUTHWESTERN FLORIDA Maximum inundation levels of 10 to 15 ft AGL occurred on Fort Myers Beach and Estero Island. A USGS water level sensor measured a wave-filtered water level of 12.70 ft above MHHW 6 Several terms are used to describe water levels due to a storm. Storm surge is defined as the abnormal rise of water generated by a storm, over and above the predicted astronomical tide, and is expressed in terms of height above normal tide levels. Because storm surge represents the deviation from normal water levels, it is not referenced to a vertica"
+    },
+    {
+     "keyword": "Fort Myers",
+     "page": 9,
+     "text": "result of the storm tide, and is expressed in terms of height above ground level. At the coast, normally dry land is roughly defined as areas higher than the normal high tide line, or Mean Higher High Water (MHHW). === PAGE 9 === Hurricane Ian 9 at Fort Myers Beach Pier (Fig. 8, Fig. 10), which was the highest water level measurement from this network. Nearby, a remote camera mounted by stormchaser Max Olson captured the evolution of the storm surge event on Fort Myers Beach. The camera was located less than 0.5 miles to the east on Estero Blvd relative to the USGS water level sensor. A timeline of images taken from this video footage is shown in Figure 11: (a) The onset of storm surge inundating the streets, (b) rapidly moving water carrying large floating debris"
+    },
+    {
+     "keyword": "storm surge",
+     "page": 1,
+     "text": "MAGE FROM 28 SEPTEMBER 2022 AT 1910 UTC NEAR THE TIME OF IAN\u2019S LANDFALL IN SOUTHWESTERN FLORIDA. CREDIT: NOAA/NESDIS/STAR Ian made landfall in southwestern Florida at category 4 intensity (on the Saffir-Simpson Hurricane Wind Scale), producing catastrophic storm surge, damaging winds, and historic freshwater flooding across much of central and northern Florida. Ian was responsible for over 150 direct and indirect deaths and over $112 billion in damage, making it the costliest hurricane in Florida\u2019s history and the third-costliest in United States history. Ian also made landfall as a category 3 hurricane in western Cuba bringing widespread damage and loss of power to the entire island. Ian made its final landfall as a category 1 hurricane in South Carolina."
+    },
+    {
+     "keyword": "storm surge",
+     "page": 2,
+     "text": "................. 5 Florida and Georgia .................................................................................................... 6 North Carolina and South Carolina ............................................................................. 7 Storm Surge ................................................................................................................. 8 Cuba .......................................................................................................................... 8 United States .............................................................................................................. 8 Southwestern Florida ............................................................................................... 8 Atlantic coastline ...."
+    },
+    {
+     "keyword": "storm surge",
+     "page": 5,
+     "text": "re also useful in constructing the best track of Ian. Data from the weather radars in the United States provided important information on Ian. Ship reports of winds of tropical storm force associated with Ian are given in Table 2, and selected significant storm surge observations given in Table 3. A supplemental file containing a larger selection of surface and buoy observations is available for download on the NHC website at https://www.nhc.noaa.gov/data/tcr/supplemental/ian.xlsx. This file also contains rainfall reports from National Weather Service Cooperative (COOP) stations and the Community Collaborative Rain, Hail and Snow Network (CoCoRaHS) sites. Winds and Pressure Ian\u2019s estimated peak intensity of 140 kt and minimum central pressure of 937 mb at 1200 UTC"
+    },
+    {
+     "keyword": "Lee County",
+     "page": 12,
+     "text": "fatalities, 66 of which were considered deaths9 directly caused by the storm. All direct deaths in the United States occurred in Florida (Fig. 16). Storm surge was the deadliest hazard, claiming 41 lives, with 36 of the 41 surge fatalities occurring in Lee County, Florida. There were 12 direct fatalities attributed to freshwater flooding in central and eastern Florida, 8 were categorized as marine fatalities, 4 were related to wind, and 1 was due to rough surf. A boat carrying a reported 27 migrants travelling from Cuba to the United States capsized just off the coast of the Florida Keys in rough waters generated by Ian. While four passengers swam to shore and five were rescued, only seven bodies were recovered (accounting for 7 of the 8 marine deaths). It should"
+    },
+    {
+     "keyword": "Lee County",
+     "page": 13,
+     "text": "cane to ever affect that state. In southwestern Florida, the catastrophic storm surge and wind left a huge swath of complete destruction. In Fort Myers Beach alone, an estimated 900 structures were totally destroyed (Fig. 18), and 2,200 were damaged. In Lee County, at least 52,514 structures were impacted, of which 5,369 were destroyed and 14,245 received major damage. Bridges and roadways were also severely damaged or destroyed. Roads and bridges to Sanibel and Pine Islands were washed away, limiting access to either by boat or helicopter. A portion of Interstate 75 in southern Sarasota County was shut down due flooding from the Myakka River. In Collier County, 33 buildings were destroyed, and over 3,500 buildings sustained major damage while at least 200 homes"
+    }
+   ],
+   "summary": "https://www.nhc.noaa.gov/data/tcr/AL092022_Ian.pdf: 8 excerpt(s) for ['Fort Myers', 'storm surge', 'Lee County', 'Sanibel', 'Fort Myers Beach', 'Causeway', 'bridge']."
+  }
+ },
+ {
+  "step": 3,
+  "tool": "make_plot",
+  "input": {
+   "station": "8725520",
+   "begin": "20220927",
+   "end": "20220930",
+   "datum": "MHHW",
+   "time_zone": "lst_ldt",
+   "units": "english",
+   "threshold_set": "nws"
+  },
+  "is_error": false,
+  "result": {
+   "tool": "make_plot",
+   "saved_to": "outputs/fort_myers_ian_water_levels.png",
+   "size_bytes": 206969,
+   "panels": [
+    "observed and predicted water level with flood-threshold lines",
+    "residual (observed minus predicted)"
+   ],
+   "y_axis": "ft above MHHW",
+   "x_axis": "LST/LDT (local clock time; EDT, UTC-4, on these dates)",
+   "threshold_lines_drawn": {
+    "nws": {
+     "minor": 2.0,
+     "moderate": 3.5,
+     "major": 5.0
+    }
+   },
+   "missing_observed_timestamps_shaded": 0,
+   "summary": "Saved outputs/fort_myers_ian_water_levels.png (206969 bytes) with y axis ft above MHHW and x axis LST/LDT (local clock time; EDT, UTC-4, on these dates)."
+  }
+ }
+]
